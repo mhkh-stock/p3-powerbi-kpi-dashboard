@@ -1,0 +1,32 @@
+// P3 DAX measures — paste into Power BI Desktop (Modeling > New measure).
+// Assumes tables fact_sales, dim_product, dim_region, dim_channel, dim_date
+// with the relationships in dashboard/powerbi-build-guide.md.
+// All measures are written against fact_sales; dimensions only filter.
+
+Total Sales = SUM(fact_sales[sales_amount])
+
+Total Profit = SUM(fact_sales[profit])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+Total Orders = DISTINCTCOUNT(fact_sales[order_id])
+
+Total Units = SUM(fact_sales[quantity])
+
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+
+Sales Previous Month =
+    CALCULATE([Total Sales], DATEADD(dim_date[month_date], -1, MONTH))
+// NOTE: dim_date needs a real date column (month_date = DATE(2026, month_no, 1))
+// for DATEADD to work. If you import only the month text, use a manual
+// previous-month measure instead (see the build guide, step 5).
+
+Sales MoM Growth % =
+    DIVIDE([Total Sales] - [Sales Previous Month], [Sales Previous Month])
+
+Top Product Sales =
+    MAXX(
+        TOPN(1, VALUES(dim_product[product]),
+            CALCULATE([Total Sales])),
+        [Total Sales]
+    )
