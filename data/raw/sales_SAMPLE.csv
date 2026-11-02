@@ -1,0 +1,1201 @@
+order_id,order_date,product,category,region,channel,quantity,unit_price,unit_cost,sales_amount,profit
+NM-00001,2026-03-05,Whey Protein 1kg,Health & Fitness,Balochistan,In-Store,1,11832,7099,11832,4733
+NM-00002,2026-05-02,Office Chair Ergo,Furniture,Sindh,In-Store,1,17517,10160,17517,7357
+NM-00003,2026-01-18,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,2,2042,1021,4084,2042
+NM-00004,2026-06-19,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,5163,3098,5163,2065
+NM-00005,2026-05-28,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,5572,2897,5572,2675
+NM-00006,2026-05-27,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,10188,5094,10188,5094
+NM-00007,2026-05-23,Bluetooth Speaker,Electronics,Punjab,Online,1,8123,4711,8123,3412
+NM-00008,2026-04-25,Cotton Kurta,Fashion,Sindh,In-Store,1,4707,2354,4707,2353
+NM-00009,2026-02-23,Wall Clock Classic,Home & Living,Sindh,WhatsApp Order,1,1835,881,1835,954
+NM-00010,2026-06-15,Leather Wallet,Fashion,Punjab,In-Store,3,4294,1932,12882,7086
+NM-00011,2026-03-05,Resistance Bands Kit,Health & Fitness,Khyber Pakhtunkhwa,Online,1,2063,928,2063,1135
+NM-00012,2026-05-26,Cotton Kurta,Fashion,Sindh,Online,1,4193,2096,4193,2097
+NM-00013,2026-04-03,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,1,5711,3312,5711,2399
+NM-00014,2026-06-10,Bookshelf 5-Tier,Furniture,Punjab,In-Store,2,13080,6802,26160,12556
+NM-00015,2026-06-12,Wireless Earbuds,Electronics,Punjab,In-Store,1,6352,3938,6352,2414
+NM-00016,2026-01-07,Leather Wallet,Fashion,Sindh,WhatsApp Order,2,2329,1048,4658,2562
+NM-00017,2026-04-03,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,15859,7930,15859,7929
+NM-00018,2026-04-28,Study Table Wooden,Furniture,Islamabad,Online,1,14061,7734,14061,6327
+NM-00019,2026-04-08,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,3879,2017,3879,1862
+NM-00020,2026-04-27,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,8993,4676,8993,4317
+NM-00021,2026-03-20,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,3,10110,5257,30330,14559
+NM-00022,2026-05-21,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,2,4670,2802,9340,3736
+NM-00023,2026-05-13,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,9768,5861,9768,3907
+NM-00024,2026-02-03,Non-stick Cookware Set,Home & Living,Sindh,In-Store,1,10109,5459,10109,4650
+NM-00025,2026-01-19,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,In-Store,3,4031,2096,12093,5805
+NM-00026,2026-02-20,Whey Protein 1kg,Health & Fitness,Islamabad,Online,1,7716,4630,7716,3086
+NM-00027,2026-04-04,LED Desk Lamp,Electronics,Sindh,In-Store,3,3799,2089,11397,5130
+NM-00028,2026-01-05,LED Desk Lamp,Electronics,Sindh,Online,2,3203,1762,6406,2882
+NM-00029,2026-05-01,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,1,10827,5847,10827,4980
+NM-00030,2026-05-10,Bluetooth Speaker,Electronics,Islamabad,In-Store,1,5639,3271,5639,2368
+NM-00031,2026-02-18,Study Table Wooden,Furniture,Punjab,Online,1,17736,9755,17736,7981
+NM-00032,2026-02-26,Wall Clock Classic,Home & Living,Punjab,In-Store,2,3141,1508,6282,3266
+NM-00033,2026-03-24,Wireless Earbuds,Electronics,Sindh,In-Store,2,2614,1621,5228,1986
+NM-00034,2026-05-12,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,3,8363,4851,25089,10536
+NM-00035,2026-02-16,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,1,9266,5004,9266,4262
+NM-00036,2026-01-16,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,WhatsApp Order,1,4134,1736,4134,2398
+NM-00037,2026-06-25,Non-stick Cookware Set,Home & Living,Sindh,Online,2,10416,5625,20832,9582
+NM-00038,2026-01-26,Whey Protein 1kg,Health & Fitness,Islamabad,Online,1,10294,6176,10294,4118
+NM-00039,2026-02-05,Wireless Earbuds,Electronics,Sindh,Online,1,3119,1934,3119,1185
+NM-00040,2026-05-27,Floor Lamp Modern,Furniture,Sindh,Online,1,8085,4042,8085,4043
+NM-00041,2026-02-01,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,Online,3,5774,3580,17322,6582
+NM-00042,2026-02-14,Non-stick Cookware Set,Home & Living,Punjab,In-Store,2,13267,7164,26534,12206
+NM-00043,2026-05-08,Bookshelf 5-Tier,Furniture,Sindh,In-Store,1,10170,5288,10170,4882
+NM-00044,2026-06-12,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,1,10926,6337,10926,4589
+NM-00045,2026-05-05,Study Table Wooden,Furniture,Punjab,In-Store,1,11987,6593,11987,5394
+NM-00046,2026-02-20,Wireless Earbuds,Electronics,Punjab,In-Store,2,5678,3520,11356,4316
+NM-00047,2026-06-04,Study Table Wooden,Furniture,Sindh,Online,1,10511,5781,10511,4730
+NM-00048,2026-01-18,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,3817,2290,3817,1527
+NM-00049,2026-04-18,Wireless Earbuds,Electronics,Punjab,In-Store,2,5612,3479,11224,4266
+NM-00050,2026-05-20,Office Chair Ergo,Furniture,Sindh,Online,1,17267,10015,17267,7252
+NM-00051,2026-04-17,Wall Clock Classic,Home & Living,Islamabad,In-Store,2,3643,1749,7286,3788
+NM-00052,2026-05-07,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,1,6623,3841,6623,2782
+NM-00053,2026-06-08,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,2099,1050,2099,1049
+NM-00054,2026-02-23,Sunglasses UV400,Fashion,Punjab,In-Store,1,2085,876,2085,1209
+NM-00055,2026-06-04,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,In-Store,1,10491,6295,10491,4196
+NM-00056,2026-06-14,Office Chair Ergo,Furniture,Punjab,In-Store,1,20616,11957,20616,8659
+NM-00057,2026-06-12,Wireless Earbuds,Electronics,Sindh,In-Store,1,3884,2408,3884,1476
+NM-00058,2026-03-17,Floor Lamp Modern,Furniture,Punjab,WhatsApp Order,1,6620,3310,6620,3310
+NM-00059,2026-02-04,Bluetooth Speaker,Electronics,Islamabad,In-Store,1,5675,3292,5675,2383
+NM-00060,2026-02-27,Yoga Mat Pro,Health & Fitness,Sindh,In-Store,1,2859,1430,2859,1429
+NM-00061,2026-04-23,Cotton Kurta,Fashion,Balochistan,In-Store,1,3166,1583,3166,1583
+NM-00062,2026-01-09,Wireless Earbuds,Electronics,Punjab,Online,1,5098,3161,5098,1937
+NM-00063,2026-02-03,Running Shoes,Fashion,Punjab,WhatsApp Order,1,11567,6593,11567,4974
+NM-00064,2026-04-09,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,WhatsApp Order,1,5258,2629,5258,2629
+NM-00065,2026-02-09,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,3541,2125,3541,1416
+NM-00066,2026-02-10,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,9596,5566,9596,4030
+NM-00067,2026-03-02,Wireless Earbuds,Electronics,Sindh,In-Store,2,2575,1596,5150,1958
+NM-00068,2026-04-08,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,Online,1,6370,3695,6370,2675
+NM-00069,2026-05-27,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,10650,6390,10650,4260
+NM-00070,2026-02-27,Cotton Bedsheet Set,Home & Living,Islamabad,Online,3,6515,3388,19545,9381
+NM-00071,2026-01-03,Running Shoes,Fashion,Punjab,Online,1,8028,4576,8028,3452
+NM-00072,2026-05-22,Leather Wallet,Fashion,Punjab,In-Store,1,4252,1913,4252,2339
+NM-00073,2026-02-09,Dumbbell Set 20kg,Health & Fitness,Islamabad,WhatsApp Order,1,5529,3207,5529,2322
+NM-00074,2026-05-11,Wall Clock Classic,Home & Living,Punjab,In-Store,3,1641,788,4923,2559
+NM-00075,2026-01-11,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,7187,4312,7187,2875
+NM-00076,2026-05-25,Wireless Earbuds,Electronics,Punjab,In-Store,1,2872,1781,2872,1091
+NM-00077,2026-01-13,Wireless Earbuds,Electronics,Punjab,Online,1,3727,2311,3727,1416
+NM-00078,2026-05-28,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,In-Store,2,6390,3323,12780,6134
+NM-00079,2026-03-24,Floor Lamp Modern,Furniture,Balochistan,Online,1,9469,4734,9469,4735
+NM-00080,2026-05-21,Yoga Mat Pro,Health & Fitness,Sindh,In-Store,1,3870,1935,3870,1935
+NM-00081,2026-01-27,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,Online,2,14036,7299,28072,13474
+NM-00082,2026-02-03,Wireless Earbuds,Electronics,Sindh,In-Store,1,2671,1656,2671,1015
+NM-00083,2026-04-18,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,5371,3223,5371,2148
+NM-00084,2026-03-01,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,2,6074,3523,12148,5102
+NM-00085,2026-06-17,Bluetooth Speaker,Electronics,Punjab,In-Store,1,7381,4281,7381,3100
+NM-00086,2026-06-25,Non-stick Cookware Set,Home & Living,Islamabad,In-Store,2,8390,4531,16780,7718
+NM-00087,2026-04-03,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,2600,1170,2600,1430
+NM-00088,2026-02-03,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,Online,1,5407,2704,5407,2703
+NM-00089,2026-05-19,Cotton Bedsheet Set,Home & Living,Sindh,WhatsApp Order,1,3302,1717,3302,1585
+NM-00090,2026-01-23,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,12035,6499,12035,5536
+NM-00091,2026-04-15,LED Desk Lamp,Electronics,Islamabad,WhatsApp Order,1,4049,2227,4049,1822
+NM-00092,2026-01-10,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,2,6126,3553,12252,5146
+NM-00093,2026-03-13,Non-stick Cookware Set,Home & Living,Punjab,Online,1,8226,4442,8226,3784
+NM-00094,2026-03-12,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,7367,3831,7367,3536
+NM-00095,2026-04-16,Whey Protein 1kg,Health & Fitness,Islamabad,Online,1,6703,4022,6703,2681
+NM-00096,2026-04-10,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,6609,3437,6609,3172
+NM-00097,2026-01-11,Cotton Kurta,Fashion,Islamabad,In-Store,1,6236,3118,6236,3118
+NM-00098,2026-01-24,Leather Wallet,Fashion,Sindh,WhatsApp Order,1,2837,1277,2837,1560
+NM-00099,2026-05-03,Sunglasses UV400,Fashion,Islamabad,In-Store,2,3253,1366,6506,3774
+NM-00100,2026-01-27,Leather Wallet,Fashion,Punjab,In-Store,3,4400,1980,13200,7260
+NM-00101,2026-05-11,Non-stick Cookware Set,Home & Living,Islamabad,WhatsApp Order,1,12833,6930,12833,5903
+NM-00102,2026-06-13,Study Table Wooden,Furniture,Punjab,WhatsApp Order,1,18498,10174,18498,8324
+NM-00103,2026-04-15,Floor Lamp Modern,Furniture,Punjab,In-Store,1,5335,2668,5335,2667
+NM-00104,2026-05-05,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,16236,8118,16236,8118
+NM-00105,2026-06-21,Running Shoes,Fashion,Punjab,Online,1,7827,4461,7827,3366
+NM-00106,2026-04-04,Ceramic Dinner Set,Home & Living,Sindh,Online,1,11148,5574,11148,5574
+NM-00107,2026-05-08,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,3,8226,4771,24678,10365
+NM-00108,2026-02-08,Bluetooth Speaker,Electronics,Punjab,In-Store,1,4931,2860,4931,2071
+NM-00109,2026-03-26,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,2,9155,4761,18310,8788
+NM-00110,2026-04-24,Office Chair Ergo,Furniture,Punjab,In-Store,1,17440,10115,17440,7325
+NM-00111,2026-03-19,Sunglasses UV400,Fashion,Sindh,Online,1,2015,846,2015,1169
+NM-00112,2026-02-03,Running Shoes,Fashion,Sindh,In-Store,1,11846,6752,11846,5094
+NM-00113,2026-03-28,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,3021,1873,3021,1148
+NM-00114,2026-04-19,Resistance Bands Kit,Health & Fitness,Islamabad,WhatsApp Order,1,1200,540,1200,660
+NM-00115,2026-05-28,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,9177,5323,9177,3854
+NM-00116,2026-05-22,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,In-Store,1,3673,2020,3673,1653
+NM-00117,2026-02-08,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,7807,4060,7807,3747
+NM-00118,2026-03-17,Yoga Mat Pro,Health & Fitness,Punjab,WhatsApp Order,1,2259,1130,2259,1129
+NM-00119,2026-02-13,Running Shoes,Fashion,Punjab,Online,2,6331,3609,12662,5444
+NM-00120,2026-04-09,Cotton Kurta,Fashion,Punjab,Online,2,5440,2720,10880,5440
+NM-00121,2026-05-08,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,In-Store,1,6434,3989,6434,2445
+NM-00122,2026-02-16,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,1,2132,1066,2132,1066
+NM-00123,2026-02-16,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,4184,2510,4184,1674
+NM-00124,2026-01-26,Leather Wallet,Fashion,Sindh,In-Store,1,3867,1740,3867,2127
+NM-00125,2026-02-08,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,1,7314,4242,7314,3072
+NM-00126,2026-05-16,Floor Lamp Modern,Furniture,Sindh,WhatsApp Order,2,5734,2867,11468,5734
+NM-00127,2026-01-20,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,6423,3340,6423,3083
+NM-00128,2026-04-02,Power Bank 20000mAh,Electronics,Islamabad,WhatsApp Order,1,3554,2132,3554,1422
+NM-00129,2026-06-04,Bluetooth Speaker,Electronics,Punjab,WhatsApp Order,1,4856,2816,4856,2040
+NM-00130,2026-06-15,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,4077,2446,4077,1631
+NM-00131,2026-03-15,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,10285,5142,10285,5143
+NM-00132,2026-01-18,Non-stick Cookware Set,Home & Living,Balochistan,Online,1,9614,5192,9614,4422
+NM-00133,2026-04-03,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,4739,2843,4739,1896
+NM-00134,2026-03-12,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,1262,568,1262,694
+NM-00135,2026-04-02,Whey Protein 1kg,Health & Fitness,Balochistan,In-Store,1,6785,4071,6785,2714
+NM-00136,2026-02-24,Bluetooth Speaker,Electronics,Punjab,WhatsApp Order,1,8461,4907,8461,3554
+NM-00137,2026-05-02,Running Shoes,Fashion,Punjab,In-Store,1,10614,6050,10614,4564
+NM-00138,2026-01-24,Floor Lamp Modern,Furniture,Punjab,Online,3,9393,4696,28179,14091
+NM-00139,2026-01-16,Dumbbell Set 20kg,Health & Fitness,Islamabad,Online,2,8666,5026,17332,7280
+NM-00140,2026-02-16,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,Online,2,8642,4321,17284,8642
+NM-00141,2026-02-20,Wall Clock Classic,Home & Living,Sindh,Online,2,2842,1364,5684,2956
+NM-00142,2026-05-03,Office Chair Ergo,Furniture,Punjab,In-Store,1,17232,9995,17232,7237
+NM-00143,2026-06-02,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,2331,1049,2331,1282
+NM-00144,2026-01-03,Running Shoes,Fashion,Punjab,In-Store,1,9616,5481,9616,4135
+NM-00145,2026-06-15,Ceramic Dinner Set,Home & Living,Sindh,WhatsApp Order,1,12337,6168,12337,6169
+NM-00146,2026-02-24,Study Table Wooden,Furniture,Punjab,In-Store,2,11485,6317,22970,10336
+NM-00147,2026-03-12,Running Shoes,Fashion,Sindh,In-Store,1,10546,6011,10546,4535
+NM-00148,2026-02-05,Leather Wallet,Fashion,Punjab,In-Store,1,4168,1876,4168,2292
+NM-00149,2026-02-17,Office Chair Ergo,Furniture,Punjab,In-Store,1,17790,10318,17790,7472
+NM-00150,2026-01-04,Wireless Earbuds,Electronics,Punjab,In-Store,2,4444,2755,8888,3378
+NM-00151,2026-03-02,Leather Wallet,Fashion,Punjab,WhatsApp Order,1,2753,1239,2753,1514
+NM-00152,2026-05-07,Bluetooth Speaker,Electronics,Punjab,Online,1,6549,3798,6549,2751
+NM-00153,2026-06-01,LED Desk Lamp,Electronics,Sindh,In-Store,1,3232,1778,3232,1454
+NM-00154,2026-02-09,Power Bank 20000mAh,Electronics,Islamabad,Online,2,5255,3153,10510,4204
+NM-00155,2026-03-14,Sunglasses UV400,Fashion,Punjab,In-Store,1,2258,948,2258,1310
+NM-00156,2026-04-18,Resistance Bands Kit,Health & Fitness,Balochistan,Online,1,1329,598,1329,731
+NM-00157,2026-02-21,Study Table Wooden,Furniture,Sindh,In-Store,1,10993,6046,10993,4947
+NM-00158,2026-03-22,Leather Wallet,Fashion,Punjab,Online,3,3511,1580,10533,5793
+NM-00159,2026-03-14,Yoga Mat Pro,Health & Fitness,Islamabad,In-Store,2,1874,937,3748,1874
+NM-00160,2026-02-13,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,3,8168,4901,24504,9801
+NM-00161,2026-01-27,Bluetooth Speaker,Electronics,Sindh,Online,1,6827,3960,6827,2867
+NM-00162,2026-02-01,Power Bank 20000mAh,Electronics,Balochistan,In-Store,1,5059,3035,5059,2024
+NM-00163,2026-05-20,Sunglasses UV400,Fashion,Sindh,In-Store,1,3566,1498,3566,2068
+NM-00164,2026-02-03,LED Desk Lamp,Electronics,Balochistan,WhatsApp Order,1,3371,1854,3371,1517
+NM-00165,2026-02-10,Cotton Bedsheet Set,Home & Living,Sindh,In-Store,3,3556,1849,10668,5121
+NM-00166,2026-06-13,Bluetooth Speaker,Electronics,Islamabad,Online,1,8581,4977,8581,3604
+NM-00167,2026-02-20,Whey Protein 1kg,Health & Fitness,Balochistan,In-Store,2,11535,6921,23070,9228
+NM-00168,2026-02-02,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,10742,6445,10742,4297
+NM-00169,2026-06-27,Non-stick Cookware Set,Home & Living,Balochistan,Online,2,6836,3691,13672,6290
+NM-00170,2026-06-27,Cotton Kurta,Fashion,Sindh,Online,1,3282,1641,3282,1641
+NM-00171,2026-03-21,Yoga Mat Pro,Health & Fitness,Sindh,Online,1,3062,1531,3062,1531
+NM-00172,2026-04-17,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,In-Store,1,6964,4039,6964,2925
+NM-00173,2026-02-15,Floor Lamp Modern,Furniture,Balochistan,In-Store,2,7954,3977,15908,7954
+NM-00174,2026-01-05,Sunglasses UV400,Fashion,Balochistan,In-Store,1,3263,1370,3263,1893
+NM-00175,2026-06-02,Power Bank 20000mAh,Electronics,Islamabad,In-Store,1,5406,3244,5406,2162
+NM-00176,2026-06-17,Bluetooth Speaker,Electronics,Islamabad,Online,2,3944,2288,7888,3312
+NM-00177,2026-02-01,Bluetooth Speaker,Electronics,Balochistan,In-Store,2,8530,4947,17060,7166
+NM-00178,2026-04-10,Ceramic Dinner Set,Home & Living,Sindh,Online,1,12122,6061,12122,6061
+NM-00179,2026-02-11,Floor Lamp Modern,Furniture,Sindh,In-Store,2,6452,3226,12904,6452
+NM-00180,2026-04-07,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,9653,5020,9653,4633
+NM-00181,2026-02-06,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,7820,4692,7820,3128
+NM-00182,2026-04-06,Running Shoes,Fashion,Punjab,WhatsApp Order,2,5442,3102,10884,4680
+NM-00183,2026-04-18,Office Chair Ergo,Furniture,Islamabad,In-Store,1,23503,13632,23503,9871
+NM-00184,2026-05-21,Whey Protein 1kg,Health & Fitness,Islamabad,Online,1,9543,5726,9543,3817
+NM-00185,2026-03-11,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,7123,4131,7123,2992
+NM-00186,2026-03-27,Office Chair Ergo,Furniture,Islamabad,WhatsApp Order,1,18155,10530,18155,7625
+NM-00187,2026-06-11,Wireless Earbuds,Electronics,Punjab,Online,1,5560,3447,5560,2113
+NM-00188,2026-04-14,Office Chair Ergo,Furniture,Punjab,In-Store,2,19965,11580,39930,16770
+NM-00189,2026-06-02,Wireless Earbuds,Electronics,Sindh,In-Store,1,2722,1688,2722,1034
+NM-00190,2026-03-18,Wall Clock Classic,Home & Living,Sindh,In-Store,1,3192,1532,3192,1660
+NM-00191,2026-05-27,Resistance Bands Kit,Health & Fitness,Islamabad,In-Store,1,1524,686,1524,838
+NM-00192,2026-02-15,LED Desk Lamp,Electronics,Islamabad,Online,1,2060,1133,2060,927
+NM-00193,2026-04-26,Running Shoes,Fashion,Balochistan,WhatsApp Order,1,4594,2619,4594,1975
+NM-00194,2026-05-21,Bookshelf 5-Tier,Furniture,Sindh,In-Store,1,11135,5790,11135,5345
+NM-00195,2026-02-01,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,3052,1831,3052,1221
+NM-00196,2026-01-25,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,In-Store,1,1850,1018,1850,832
+NM-00197,2026-04-07,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,In-Store,1,23962,13898,23962,10064
+NM-00198,2026-05-06,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,WhatsApp Order,1,19068,11059,19068,8009
+NM-00199,2026-06-26,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,1,2665,1199,2665,1466
+NM-00200,2026-04-03,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,6936,4023,6936,2913
+NM-00201,2026-01-04,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,Online,2,6450,3225,12900,6450
+NM-00202,2026-06-02,Running Shoes,Fashion,Sindh,Online,1,9709,5534,9709,4175
+NM-00203,2026-05-09,Leather Wallet,Fashion,Islamabad,In-Store,2,4429,1993,8858,4872
+NM-00204,2026-05-01,Ceramic Dinner Set,Home & Living,Balochistan,In-Store,2,12765,6382,25530,12766
+NM-00205,2026-02-24,Cotton Kurta,Fashion,Punjab,In-Store,2,3586,1793,7172,3586
+NM-00206,2026-06-23,Study Table Wooden,Furniture,Sindh,In-Store,1,17192,9456,17192,7736
+NM-00207,2026-01-14,Wall Clock Classic,Home & Living,Sindh,Online,2,2760,1325,5520,2870
+NM-00208,2026-05-06,Cotton Bedsheet Set,Home & Living,Punjab,WhatsApp Order,1,3469,1804,3469,1665
+NM-00209,2026-03-05,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,Online,1,2626,1628,2626,998
+NM-00210,2026-06-03,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,In-Store,2,3069,1841,6138,2456
+NM-00211,2026-05-22,Bluetooth Speaker,Electronics,Punjab,In-Store,1,6644,3854,6644,2790
+NM-00212,2026-01-28,Bluetooth Speaker,Electronics,Sindh,In-Store,1,8673,5030,8673,3643
+NM-00213,2026-06-07,Leather Wallet,Fashion,Punjab,In-Store,1,3107,1398,3107,1709
+NM-00214,2026-03-02,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,2,2814,1182,5628,3264
+NM-00215,2026-03-20,Wireless Earbuds,Electronics,Sindh,Online,1,5731,3553,5731,2178
+NM-00216,2026-03-16,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,Online,1,5003,3002,5003,2001
+NM-00217,2026-05-27,Leather Wallet,Fashion,Sindh,In-Store,1,2497,1124,2497,1373
+NM-00218,2026-01-01,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,Online,1,3510,1474,3510,2036
+NM-00219,2026-04-19,Sunglasses UV400,Fashion,Islamabad,In-Store,1,3610,1516,3610,2094
+NM-00220,2026-02-23,Wall Clock Classic,Home & Living,Islamabad,Online,1,3541,1700,3541,1841
+NM-00221,2026-04-26,Study Table Wooden,Furniture,Sindh,In-Store,1,11213,6167,11213,5046
+NM-00222,2026-04-24,Bluetooth Speaker,Electronics,Punjab,In-Store,2,6958,4036,13916,5844
+NM-00223,2026-03-14,Study Table Wooden,Furniture,Islamabad,Online,1,17711,9741,17711,7970
+NM-00224,2026-04-05,Study Table Wooden,Furniture,Punjab,In-Store,1,10055,5530,10055,4525
+NM-00225,2026-04-22,Study Table Wooden,Furniture,Sindh,Online,1,14797,8138,14797,6659
+NM-00226,2026-05-08,Cotton Bedsheet Set,Home & Living,Islamabad,In-Store,1,5936,3087,5936,2849
+NM-00227,2026-02-09,Leather Wallet,Fashion,Punjab,In-Store,1,4328,1948,4328,2380
+NM-00228,2026-03-20,Office Chair Ergo,Furniture,Punjab,In-Store,1,19711,11432,19711,8279
+NM-00229,2026-06-04,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,10165,5082,10165,5083
+NM-00230,2026-03-24,Leather Wallet,Fashion,Punjab,WhatsApp Order,1,3581,1611,3581,1970
+NM-00231,2026-03-07,Whey Protein 1kg,Health & Fitness,Sindh,Online,1,10300,6180,10300,4120
+NM-00232,2026-06-08,Office Chair Ergo,Furniture,Punjab,In-Store,1,24360,14129,24360,10231
+NM-00233,2026-06-13,Wireless Earbuds,Electronics,Islamabad,Online,1,5534,3431,5534,2103
+NM-00234,2026-05-24,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,1,2736,1368,2736,1368
+NM-00235,2026-06-23,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,14483,7531,14483,6952
+NM-00236,2026-04-11,Running Shoes,Fashion,Islamabad,In-Store,1,9646,5498,9646,4148
+NM-00237,2026-04-23,Ceramic Dinner Set,Home & Living,Sindh,In-Store,2,12596,6298,25192,12596
+NM-00238,2026-04-17,Ceramic Dinner Set,Home & Living,Sindh,In-Store,2,13874,6937,27748,13874
+NM-00239,2026-01-02,Running Shoes,Fashion,Khyber Pakhtunkhwa,WhatsApp Order,1,8951,5102,8951,3849
+NM-00240,2026-02-17,Sunglasses UV400,Fashion,Sindh,In-Store,2,1914,804,3828,2220
+NM-00241,2026-04-17,Wireless Earbuds,Electronics,Sindh,In-Store,2,5118,3173,10236,3890
+NM-00242,2026-06-15,Non-stick Cookware Set,Home & Living,Sindh,WhatsApp Order,1,12106,6537,12106,5569
+NM-00243,2026-06-20,Sunglasses UV400,Fashion,Punjab,In-Store,1,4111,1727,4111,2384
+NM-00244,2026-01-03,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,Online,1,3522,1761,3522,1761
+NM-00245,2026-01-08,Leather Wallet,Fashion,Sindh,In-Store,3,3440,1548,10320,5676
+NM-00246,2026-04-15,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,Online,1,7847,4237,7847,3610
+NM-00247,2026-06-07,Resistance Bands Kit,Health & Fitness,Punjab,WhatsApp Order,1,2515,1132,2515,1383
+NM-00248,2026-03-22,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,Online,3,3717,1858,11151,5577
+NM-00249,2026-04-12,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,1,2595,1246,2595,1349
+NM-00250,2026-06-06,Resistance Bands Kit,Health & Fitness,Balochistan,In-Store,2,1205,542,2410,1326
+NM-00251,2026-06-10,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,In-Store,1,4764,2382,4764,2382
+NM-00252,2026-03-05,Leather Wallet,Fashion,Balochistan,WhatsApp Order,1,3377,1520,3377,1857
+NM-00253,2026-02-17,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,1,4093,1719,4093,2374
+NM-00254,2026-01-21,Leather Wallet,Fashion,Sindh,WhatsApp Order,1,2824,1271,2824,1553
+NM-00255,2026-02-25,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,2,8338,4836,16676,7004
+NM-00256,2026-05-06,Floor Lamp Modern,Furniture,Punjab,WhatsApp Order,3,9183,4592,27549,13773
+NM-00257,2026-05-26,Leather Wallet,Fashion,Punjab,In-Store,1,2608,1174,2608,1434
+NM-00258,2026-04-22,LED Desk Lamp,Electronics,Sindh,Online,1,4073,2240,4073,1833
+NM-00259,2026-04-16,Study Table Wooden,Furniture,Islamabad,Online,1,10457,5751,10457,4706
+NM-00260,2026-02-16,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,17339,8670,17339,8669
+NM-00261,2026-03-15,Bookshelf 5-Tier,Furniture,Balochistan,In-Store,1,11576,6020,11576,5556
+NM-00262,2026-04-22,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,1,4978,2887,4978,2091
+NM-00263,2026-05-02,Cotton Kurta,Fashion,Sindh,In-Store,3,6112,3056,18336,9168
+NM-00264,2026-02-02,Non-stick Cookware Set,Home & Living,Punjab,In-Store,1,12383,6687,12383,5696
+NM-00265,2026-06-12,Cotton Kurta,Fashion,Sindh,WhatsApp Order,2,4743,2372,9486,4742
+NM-00266,2026-03-14,Cotton Kurta,Fashion,Punjab,In-Store,1,4530,2265,4530,2265
+NM-00267,2026-03-27,Resistance Bands Kit,Health & Fitness,Islamabad,WhatsApp Order,1,2026,912,2026,1114
+NM-00268,2026-03-07,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,1441,648,1441,793
+NM-00269,2026-05-21,Bluetooth Speaker,Electronics,Sindh,In-Store,1,3828,2220,3828,1608
+NM-00270,2026-05-02,Whey Protein 1kg,Health & Fitness,Punjab,Online,1,8960,5376,8960,3584
+NM-00271,2026-04-20,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,Online,2,4851,2911,9702,3880
+NM-00272,2026-06-22,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,In-Store,1,4879,2440,4879,2439
+NM-00273,2026-02-04,Ceramic Dinner Set,Home & Living,Punjab,WhatsApp Order,1,9105,4552,9105,4553
+NM-00274,2026-01-12,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,5734,2982,5734,2752
+NM-00275,2026-04-02,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,WhatsApp Order,1,2883,1442,2883,1441
+NM-00276,2026-01-16,Bookshelf 5-Tier,Furniture,Punjab,Online,1,11777,6124,11777,5653
+NM-00277,2026-05-23,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,Online,1,10157,6094,10157,4063
+NM-00278,2026-06-05,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,2776,1249,2776,1527
+NM-00279,2026-02-05,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,In-Store,1,4248,2634,4248,1614
+NM-00280,2026-01-07,LED Desk Lamp,Electronics,Punjab,Online,1,2328,1280,2328,1048
+NM-00281,2026-04-24,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,Online,1,9321,4660,9321,4661
+NM-00282,2026-02-24,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,1,5901,3423,5901,2478
+NM-00283,2026-03-02,Power Bank 20000mAh,Electronics,Islamabad,Online,1,2846,1708,2846,1138
+NM-00284,2026-05-03,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,1,9048,5429,9048,3619
+NM-00285,2026-04-20,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,4095,2457,4095,1638
+NM-00286,2026-06-06,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,Online,1,4156,2161,4156,1995
+NM-00287,2026-04-16,Whey Protein 1kg,Health & Fitness,Balochistan,Online,3,10208,6125,30624,12249
+NM-00288,2026-03-09,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,Online,3,5347,3208,16041,6417
+NM-00289,2026-03-28,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,In-Store,2,4326,2163,8652,4326
+NM-00290,2026-04-08,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,1,9673,5804,9673,3869
+NM-00291,2026-04-10,Wireless Earbuds,Electronics,Sindh,Online,1,3816,2366,3816,1450
+NM-00292,2026-01-10,Cotton Bedsheet Set,Home & Living,Islamabad,Online,1,4404,2290,4404,2114
+NM-00293,2026-06-25,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,1,1910,860,1910,1050
+NM-00294,2026-04-07,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,In-Store,1,2767,1328,2767,1439
+NM-00295,2026-02-09,Bookshelf 5-Tier,Furniture,Sindh,Online,1,13653,7100,13653,6553
+NM-00296,2026-05-26,Sunglasses UV400,Fashion,Sindh,WhatsApp Order,1,1756,738,1756,1018
+NM-00297,2026-05-11,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,2236,1006,2236,1230
+NM-00298,2026-02-26,Leather Wallet,Fashion,Sindh,Online,1,3286,1479,3286,1807
+NM-00299,2026-02-08,Power Bank 20000mAh,Electronics,Punjab,Online,1,4820,2892,4820,1928
+NM-00300,2026-01-05,Cotton Kurta,Fashion,Punjab,Online,1,5246,2623,5246,2623
+NM-00301,2026-01-02,Non-stick Cookware Set,Home & Living,Sindh,Online,2,13633,7362,27266,12542
+NM-00302,2026-03-25,Running Shoes,Fashion,Sindh,Online,1,7989,4554,7989,3435
+NM-00303,2026-05-05,Running Shoes,Fashion,Punjab,In-Store,1,11411,6504,11411,4907
+NM-00304,2026-01-01,Power Bank 20000mAh,Electronics,Islamabad,In-Store,1,2942,1765,2942,1177
+NM-00305,2026-01-28,Floor Lamp Modern,Furniture,Punjab,WhatsApp Order,1,9441,4720,9441,4721
+NM-00306,2026-03-11,Bookshelf 5-Tier,Furniture,Islamabad,Online,1,9410,4893,9410,4517
+NM-00307,2026-04-06,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,6808,3949,6808,2859
+NM-00308,2026-02-02,Running Shoes,Fashion,Sindh,In-Store,1,7383,4208,7383,3175
+NM-00309,2026-01-09,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,In-Store,2,25626,14863,51252,21526
+NM-00310,2026-01-05,Cotton Kurta,Fashion,Punjab,Online,1,5892,2946,5892,2946
+NM-00311,2026-05-19,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,10845,6290,10845,4555
+NM-00312,2026-01-12,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,1977,890,1977,1087
+NM-00313,2026-06-01,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,2,7098,4117,14196,5962
+NM-00314,2026-01-20,Sunglasses UV400,Fashion,Islamabad,WhatsApp Order,2,2072,870,4144,2404
+NM-00315,2026-04-27,Wireless Earbuds,Electronics,Islamabad,In-Store,1,5073,3145,5073,1928
+NM-00316,2026-02-16,LED Desk Lamp,Electronics,Punjab,In-Store,1,3299,1814,3299,1485
+NM-00317,2026-06-15,Study Table Wooden,Furniture,Punjab,In-Store,1,11870,6529,11870,5341
+NM-00318,2026-02-05,Wireless Earbuds,Electronics,Punjab,Online,1,3610,2238,3610,1372
+NM-00319,2026-03-16,LED Desk Lamp,Electronics,Sindh,In-Store,1,3102,1706,3102,1396
+NM-00320,2026-05-02,Non-stick Cookware Set,Home & Living,Punjab,In-Store,1,11087,5987,11087,5100
+NM-00321,2026-02-12,Yoga Mat Pro,Health & Fitness,Islamabad,In-Store,3,2871,1436,8613,4305
+NM-00322,2026-03-14,Ceramic Dinner Set,Home & Living,Islamabad,In-Store,2,9441,4720,18882,9442
+NM-00323,2026-06-01,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,9659,5602,9659,4057
+NM-00324,2026-05-10,Ceramic Dinner Set,Home & Living,Islamabad,In-Store,1,14399,7200,14399,7199
+NM-00325,2026-05-06,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,4675,2431,4675,2244
+NM-00326,2026-05-03,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,2,8485,4921,16970,7128
+NM-00327,2026-02-20,Non-stick Cookware Set,Home & Living,Punjab,Online,1,11275,6088,11275,5187
+NM-00328,2026-05-14,Power Bank 20000mAh,Electronics,Punjab,Online,2,4923,2954,9846,3938
+NM-00329,2026-04-03,Wireless Earbuds,Electronics,Sindh,WhatsApp Order,2,4177,2590,8354,3174
+NM-00330,2026-03-08,Ceramic Dinner Set,Home & Living,Sindh,In-Store,2,17726,8863,35452,17726
+NM-00331,2026-03-19,Floor Lamp Modern,Furniture,Islamabad,WhatsApp Order,1,4238,2119,4238,2119
+NM-00332,2026-01-04,Sunglasses UV400,Fashion,Islamabad,In-Store,2,2502,1051,5004,2902
+NM-00333,2026-06-28,Whey Protein 1kg,Health & Fitness,Punjab,WhatsApp Order,2,11221,6733,22442,8976
+NM-00334,2026-06-16,Dumbbell Set 20kg,Health & Fitness,Balochistan,In-Store,1,9705,5629,9705,4076
+NM-00335,2026-02-03,Wall Clock Classic,Home & Living,Punjab,Online,1,2247,1079,2247,1168
+NM-00336,2026-01-01,LED Desk Lamp,Electronics,Balochistan,Online,1,2599,1429,2599,1170
+NM-00337,2026-04-17,Wall Clock Classic,Home & Living,Islamabad,Online,1,3319,1593,3319,1726
+NM-00338,2026-01-09,LED Desk Lamp,Electronics,Sindh,In-Store,1,3704,2037,3704,1667
+NM-00339,2026-01-04,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,7621,4573,7621,3048
+NM-00340,2026-06-19,Dumbbell Set 20kg,Health & Fitness,Balochistan,WhatsApp Order,1,8749,5074,8749,3675
+NM-00341,2026-04-23,Yoga Mat Pro,Health & Fitness,Islamabad,In-Store,1,3952,1976,3952,1976
+NM-00342,2026-03-11,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,Online,2,8469,5081,16938,6776
+NM-00343,2026-05-26,Cotton Kurta,Fashion,Sindh,In-Store,1,6138,3069,6138,3069
+NM-00344,2026-02-22,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,2,2521,1059,5042,2924
+NM-00345,2026-01-17,Ceramic Dinner Set,Home & Living,Punjab,Online,1,9634,4817,9634,4817
+NM-00346,2026-02-05,Yoga Mat Pro,Health & Fitness,Islamabad,Online,2,3426,1713,6852,3426
+NM-00347,2026-01-02,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,Online,2,6377,3188,12754,6378
+NM-00348,2026-01-20,LED Desk Lamp,Electronics,Punjab,In-Store,1,2826,1554,2826,1272
+NM-00349,2026-01-10,LED Desk Lamp,Electronics,Punjab,In-Store,1,3050,1678,3050,1372
+NM-00350,2026-05-09,Bluetooth Speaker,Electronics,Islamabad,In-Store,1,7320,4246,7320,3074
+NM-00351,2026-05-05,Leather Wallet,Fashion,Punjab,Online,1,3465,1559,3465,1906
+NM-00352,2026-06-18,Leather Wallet,Fashion,Sindh,Online,1,3660,1647,3660,2013
+NM-00353,2026-02-18,Sunglasses UV400,Fashion,Punjab,In-Store,2,3387,1423,6774,3928
+NM-00354,2026-03-01,Wall Clock Classic,Home & Living,Sindh,In-Store,1,2866,1376,2866,1490
+NM-00355,2026-05-13,Wireless Earbuds,Electronics,Islamabad,In-Store,1,6285,3897,6285,2388
+NM-00356,2026-05-11,Resistance Bands Kit,Health & Fitness,Islamabad,In-Store,1,1752,788,1752,964
+NM-00357,2026-01-06,Study Table Wooden,Furniture,Sindh,Online,1,10594,5827,10594,4767
+NM-00358,2026-05-13,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,2,8400,4872,16800,7056
+NM-00359,2026-06-24,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,6614,3439,6614,3175
+NM-00360,2026-05-20,Running Shoes,Fashion,Punjab,WhatsApp Order,2,11227,6399,22454,9656
+NM-00361,2026-04-09,Cotton Bedsheet Set,Home & Living,Punjab,Online,2,6583,3423,13166,6320
+NM-00362,2026-05-04,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,3,2014,906,6042,3324
+NM-00363,2026-03-28,Floor Lamp Modern,Furniture,Islamabad,Online,1,9175,4588,9175,4587
+NM-00364,2026-03-24,Sunglasses UV400,Fashion,Sindh,Online,1,2699,1134,2699,1565
+NM-00365,2026-06-11,Wireless Earbuds,Electronics,Islamabad,In-Store,2,5723,3548,11446,4350
+NM-00366,2026-03-06,Study Table Wooden,Furniture,Sindh,In-Store,2,14481,7965,28962,13032
+NM-00367,2026-02-03,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,In-Store,3,4126,2063,12378,6189
+NM-00368,2026-03-07,Yoga Mat Pro,Health & Fitness,Punjab,WhatsApp Order,1,1843,922,1843,921
+NM-00369,2026-03-18,Leather Wallet,Fashion,Sindh,Online,1,4005,1802,4005,2203
+NM-00370,2026-06-22,Yoga Mat Pro,Health & Fitness,Punjab,Online,1,3395,1698,3395,1697
+NM-00371,2026-04-01,Bluetooth Speaker,Electronics,Sindh,In-Store,1,7802,4525,7802,3277
+NM-00372,2026-06-18,Bookshelf 5-Tier,Furniture,Islamabad,In-Store,2,8763,4557,17526,8412
+NM-00373,2026-04-25,Floor Lamp Modern,Furniture,Sindh,Online,1,9012,4506,9012,4506
+NM-00374,2026-02-12,Cotton Kurta,Fashion,Balochistan,In-Store,3,4301,2150,12903,6453
+NM-00375,2026-01-21,Leather Wallet,Fashion,Islamabad,WhatsApp Order,2,3206,1443,6412,3526
+NM-00376,2026-04-21,Ceramic Dinner Set,Home & Living,Sindh,In-Store,1,17086,8543,17086,8543
+NM-00377,2026-02-14,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,9485,4742,9485,4743
+NM-00378,2026-06-21,Power Bank 20000mAh,Electronics,Punjab,Online,1,4485,2691,4485,1794
+NM-00379,2026-05-01,Leather Wallet,Fashion,Sindh,Online,2,3428,1543,6856,3770
+NM-00380,2026-02-06,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,2774,1248,2774,1526
+NM-00381,2026-05-17,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,4826,2510,4826,2316
+NM-00382,2026-05-04,Wireless Earbuds,Electronics,Islamabad,In-Store,1,2910,1804,2910,1106
+NM-00383,2026-04-20,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,Online,1,2054,1027,2054,1027
+NM-00384,2026-02-23,Wall Clock Classic,Home & Living,Punjab,Online,1,2949,1416,2949,1533
+NM-00385,2026-05-03,Sunglasses UV400,Fashion,Sindh,In-Store,1,2285,960,2285,1325
+NM-00386,2026-04-19,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,4600,2760,4600,1840
+NM-00387,2026-02-19,Ceramic Dinner Set,Home & Living,Islamabad,In-Store,1,13657,6828,13657,6829
+NM-00388,2026-04-20,Running Shoes,Fashion,Islamabad,In-Store,1,11764,6705,11764,5059
+NM-00389,2026-04-22,Bookshelf 5-Tier,Furniture,Sindh,Online,1,9313,4843,9313,4470
+NM-00390,2026-01-26,Wall Clock Classic,Home & Living,Sindh,In-Store,1,1858,892,1858,966
+NM-00391,2026-03-13,Study Table Wooden,Furniture,Sindh,In-Store,1,15446,8495,15446,6951
+NM-00392,2026-04-21,Bluetooth Speaker,Electronics,Islamabad,Online,1,4509,2615,4509,1894
+NM-00393,2026-04-07,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,1,7823,4537,7823,3286
+NM-00394,2026-01-11,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,5180,2694,5180,2486
+NM-00395,2026-02-18,Dumbbell Set 20kg,Health & Fitness,Balochistan,In-Store,2,9326,5409,18652,7834
+NM-00396,2026-03-07,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,9587,5752,9587,3835
+NM-00397,2026-04-17,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,2,8361,4515,16722,7692
+NM-00398,2026-03-20,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,3,10313,5982,30939,12993
+NM-00399,2026-05-07,Cotton Bedsheet Set,Home & Living,Punjab,WhatsApp Order,1,4205,2187,4205,2018
+NM-00400,2026-06-25,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,6735,4041,6735,2694
+NM-00401,2026-04-23,Bluetooth Speaker,Electronics,Punjab,In-Store,2,4950,2871,9900,4158
+NM-00402,2026-01-03,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,2,15422,8482,30844,13880
+NM-00403,2026-06-10,Bluetooth Speaker,Electronics,Balochistan,In-Store,1,5354,3105,5354,2249
+NM-00404,2026-03-13,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,2,10644,6174,21288,8940
+NM-00405,2026-03-06,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,In-Store,1,4001,2481,4001,1520
+NM-00406,2026-04-01,Dumbbell Set 20kg,Health & Fitness,Sindh,WhatsApp Order,3,7535,4370,22605,9495
+NM-00407,2026-01-06,Leather Wallet,Fashion,Khyber Pakhtunkhwa,In-Store,1,2271,1022,2271,1249
+NM-00408,2026-06-02,Whey Protein 1kg,Health & Fitness,Sindh,Online,1,6827,4096,6827,2731
+NM-00409,2026-02-13,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,In-Store,1,5062,3037,5062,2025
+NM-00410,2026-02-19,Resistance Bands Kit,Health & Fitness,Islamabad,Online,1,2667,1200,2667,1467
+NM-00411,2026-05-12,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,In-Store,2,2958,1834,5916,2248
+NM-00412,2026-01-28,Bookshelf 5-Tier,Furniture,Islamabad,Online,1,12475,6487,12475,5988
+NM-00413,2026-01-26,Cotton Kurta,Fashion,Sindh,WhatsApp Order,2,3660,1830,7320,3660
+NM-00414,2026-04-23,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,2,11540,6924,23080,9232
+NM-00415,2026-04-15,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,Online,1,5632,2816,5632,2816
+NM-00416,2026-06-15,Office Chair Ergo,Furniture,Punjab,Online,1,14889,8636,14889,6253
+NM-00417,2026-02-16,Non-stick Cookware Set,Home & Living,Balochistan,Online,3,6857,3703,20571,9462
+NM-00418,2026-02-18,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,12366,6183,12366,6183
+NM-00419,2026-03-12,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,2179,1090,2179,1089
+NM-00420,2026-06-16,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,1687,759,1687,928
+NM-00421,2026-02-21,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,Online,1,2726,1145,2726,1581
+NM-00422,2026-02-11,LED Desk Lamp,Electronics,Islamabad,Online,1,4045,2225,4045,1820
+NM-00423,2026-02-20,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,2,8826,5119,17652,7414
+NM-00424,2026-03-16,Non-stick Cookware Set,Home & Living,Punjab,In-Store,1,6855,3702,6855,3153
+NM-00425,2026-06-10,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,1,6425,3726,6425,2699
+NM-00426,2026-03-06,Study Table Wooden,Furniture,Sindh,WhatsApp Order,1,10676,5872,10676,4804
+NM-00427,2026-04-03,Cotton Kurta,Fashion,Punjab,In-Store,1,5826,2913,5826,2913
+NM-00428,2026-04-16,Non-stick Cookware Set,Home & Living,Punjab,WhatsApp Order,1,12921,6977,12921,5944
+NM-00429,2026-06-10,Floor Lamp Modern,Furniture,Punjab,Online,1,6259,3130,6259,3129
+NM-00430,2026-01-25,Whey Protein 1kg,Health & Fitness,Punjab,Online,1,7688,4613,7688,3075
+NM-00431,2026-06-06,LED Desk Lamp,Electronics,Punjab,In-Store,2,3071,1689,6142,2764
+NM-00432,2026-03-11,Wall Clock Classic,Home & Living,Islamabad,Online,1,3009,1444,3009,1565
+NM-00433,2026-03-08,Power Bank 20000mAh,Electronics,Balochistan,WhatsApp Order,1,2968,1781,2968,1187
+NM-00434,2026-06-13,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,3686,2212,3686,1474
+NM-00435,2026-03-20,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,1,12632,6569,12632,6063
+NM-00436,2026-04-21,Whey Protein 1kg,Health & Fitness,Islamabad,In-Store,3,7234,4340,21702,8682
+NM-00437,2026-02-24,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,Online,1,1511,635,1511,876
+NM-00438,2026-05-14,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,5520,2870,5520,2650
+NM-00439,2026-03-03,Dumbbell Set 20kg,Health & Fitness,Balochistan,WhatsApp Order,1,5572,3232,5572,2340
+NM-00440,2026-02-13,Leather Wallet,Fashion,Sindh,In-Store,1,1817,818,1817,999
+NM-00441,2026-02-16,Bluetooth Speaker,Electronics,Sindh,WhatsApp Order,1,7945,4608,7945,3337
+NM-00442,2026-06-28,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,Online,3,6487,3373,19461,9342
+NM-00443,2026-01-24,Cotton Kurta,Fashion,Sindh,In-Store,1,5295,2648,5295,2647
+NM-00444,2026-03-16,Cotton Bedsheet Set,Home & Living,Sindh,Online,2,5651,2939,11302,5424
+NM-00445,2026-02-08,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,1,6198,3595,6198,2603
+NM-00446,2026-04-12,Office Chair Ergo,Furniture,Sindh,In-Store,1,17936,10403,17936,7533
+NM-00447,2026-02-07,Study Table Wooden,Furniture,Balochistan,Online,1,11339,6236,11339,5103
+NM-00448,2026-02-17,Running Shoes,Fashion,Sindh,In-Store,1,10308,5876,10308,4432
+NM-00449,2026-05-23,LED Desk Lamp,Electronics,Sindh,WhatsApp Order,2,3902,2146,7804,3512
+NM-00450,2026-06-03,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,2,6600,3828,13200,5544
+NM-00451,2026-01-21,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,Online,1,15672,9090,15672,6582
+NM-00452,2026-02-19,Resistance Bands Kit,Health & Fitness,Sindh,Online,1,2787,1254,2787,1533
+NM-00453,2026-04-08,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,4325,2595,4325,1730
+NM-00454,2026-04-10,LED Desk Lamp,Electronics,Islamabad,Online,1,2355,1295,2355,1060
+NM-00455,2026-02-19,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,In-Store,1,3252,1789,3252,1463
+NM-00456,2026-06-22,Wireless Earbuds,Electronics,Punjab,In-Store,1,5881,3646,5881,2235
+NM-00457,2026-05-12,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,2,1289,580,2578,1418
+NM-00458,2026-03-26,Floor Lamp Modern,Furniture,Islamabad,In-Store,1,5125,2562,5125,2563
+NM-00459,2026-03-07,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,2,5674,3291,11348,4766
+NM-00460,2026-01-16,LED Desk Lamp,Electronics,Punjab,Online,2,2102,1156,4204,1892
+NM-00461,2026-03-28,Whey Protein 1kg,Health & Fitness,Punjab,WhatsApp Order,1,7681,4609,7681,3072
+NM-00462,2026-03-15,Wireless Earbuds,Electronics,Punjab,In-Store,1,2601,1613,2601,988
+NM-00463,2026-01-26,Power Bank 20000mAh,Electronics,Balochistan,Online,1,3105,1863,3105,1242
+NM-00464,2026-04-27,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,1,1524,686,1524,838
+NM-00465,2026-05-17,Bluetooth Speaker,Electronics,Punjab,WhatsApp Order,1,6456,3744,6456,2712
+NM-00466,2026-05-20,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,3665,2199,3665,1466
+NM-00467,2026-05-15,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,9397,5638,9397,3759
+NM-00468,2026-02-01,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,Online,2,3381,1623,6762,3516
+NM-00469,2026-06-22,Cotton Bedsheet Set,Home & Living,Punjab,WhatsApp Order,1,5433,2825,5433,2608
+NM-00470,2026-03-19,Bookshelf 5-Tier,Furniture,Punjab,Online,1,11826,6150,11826,5676
+NM-00471,2026-05-25,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,Online,2,2616,1439,5232,2354
+NM-00472,2026-03-26,Leather Wallet,Fashion,Islamabad,Online,2,2775,1249,5550,3052
+NM-00473,2026-03-25,Cotton Kurta,Fashion,Islamabad,In-Store,1,5829,2914,5829,2915
+NM-00474,2026-05-23,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,9239,5543,9239,3696
+NM-00475,2026-04-17,Sunglasses UV400,Fashion,Islamabad,In-Store,2,2497,1049,4994,2896
+NM-00476,2026-02-01,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,1,8817,5114,8817,3703
+NM-00477,2026-02-19,Bluetooth Speaker,Electronics,Punjab,Online,1,4678,2713,4678,1965
+NM-00478,2026-05-22,Cotton Kurta,Fashion,Sindh,In-Store,2,3101,1550,6202,3102
+NM-00479,2026-02-10,Bookshelf 5-Tier,Furniture,Sindh,Online,3,10395,5405,31185,14970
+NM-00480,2026-04-24,Bluetooth Speaker,Electronics,Punjab,WhatsApp Order,1,7469,4332,7469,3137
+NM-00481,2026-05-01,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,12891,6446,12891,6445
+NM-00482,2026-04-07,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,In-Store,2,6515,3258,13030,6514
+NM-00483,2026-06-02,Cotton Bedsheet Set,Home & Living,Balochistan,WhatsApp Order,1,3598,1871,3598,1727
+NM-00484,2026-03-24,Cotton Bedsheet Set,Home & Living,Sindh,WhatsApp Order,1,3241,1685,3241,1556
+NM-00485,2026-06-11,Wireless Earbuds,Electronics,Islamabad,In-Store,1,3369,2089,3369,1280
+NM-00486,2026-04-13,Floor Lamp Modern,Furniture,Islamabad,Online,1,6967,3484,6967,3483
+NM-00487,2026-01-21,Floor Lamp Modern,Furniture,Islamabad,In-Store,2,6940,3470,13880,6940
+NM-00488,2026-04-28,Wireless Earbuds,Electronics,Sindh,WhatsApp Order,2,2605,1615,5210,1980
+NM-00489,2026-01-14,Floor Lamp Modern,Furniture,Punjab,In-Store,1,6896,3448,6896,3448
+NM-00490,2026-05-25,Bluetooth Speaker,Electronics,Sindh,Online,2,6431,3730,12862,5402
+NM-00491,2026-05-28,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,1,12013,6607,12013,5406
+NM-00492,2026-06-20,Running Shoes,Fashion,Khyber Pakhtunkhwa,Online,1,11163,6363,11163,4800
+NM-00493,2026-03-21,Study Table Wooden,Furniture,Sindh,Online,1,16924,9308,16924,7616
+NM-00494,2026-03-05,Running Shoes,Fashion,Punjab,Online,1,4574,2607,4574,1967
+NM-00495,2026-03-05,Wall Clock Classic,Home & Living,Punjab,In-Store,2,3141,1508,6282,3266
+NM-00496,2026-02-04,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,5025,3015,5025,2010
+NM-00497,2026-05-12,Cotton Bedsheet Set,Home & Living,Islamabad,Online,2,4653,2420,9306,4466
+NM-00498,2026-05-01,Sunglasses UV400,Fashion,Islamabad,In-Store,1,2493,1047,2493,1446
+NM-00499,2026-03-26,Whey Protein 1kg,Health & Fitness,Balochistan,In-Store,1,10269,6161,10269,4108
+NM-00500,2026-06-24,Wireless Earbuds,Electronics,Islamabad,Online,2,2768,1716,5536,2104
+NM-00501,2026-03-02,Wall Clock Classic,Home & Living,Islamabad,WhatsApp Order,1,3040,1459,3040,1581
+NM-00502,2026-06-28,Wall Clock Classic,Home & Living,Punjab,In-Store,1,1625,780,1625,845
+NM-00503,2026-02-12,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,In-Store,2,9170,4952,18340,8436
+NM-00504,2026-04-07,Bookshelf 5-Tier,Furniture,Islamabad,WhatsApp Order,1,13978,7269,13978,6709
+NM-00505,2026-03-25,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,5658,2942,5658,2716
+NM-00506,2026-02-06,Cotton Kurta,Fashion,Islamabad,In-Store,1,5596,2798,5596,2798
+NM-00507,2026-01-26,Non-stick Cookware Set,Home & Living,Sindh,Online,2,13474,7276,26948,12396
+NM-00508,2026-04-06,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,3,2372,1186,7116,3558
+NM-00509,2026-01-05,Wireless Earbuds,Electronics,Punjab,Online,2,3046,1889,6092,2314
+NM-00510,2026-01-25,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,16110,8055,16110,8055
+NM-00511,2026-06-23,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,3,9249,5549,27747,11100
+NM-00512,2026-06-23,Wireless Earbuds,Electronics,Sindh,Online,1,2655,1646,2655,1009
+NM-00513,2026-06-04,Wireless Earbuds,Electronics,Punjab,WhatsApp Order,3,2697,1672,8091,3075
+NM-00514,2026-01-16,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,6710,3489,6710,3221
+NM-00515,2026-06-24,Study Table Wooden,Furniture,Sindh,Online,3,17703,9737,53109,23898
+NM-00516,2026-01-12,Non-stick Cookware Set,Home & Living,Islamabad,Online,3,13489,7284,40467,18615
+NM-00517,2026-03-23,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,8749,4374,8749,4375
+NM-00518,2026-05-02,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,3,4079,2040,12237,6117
+NM-00519,2026-01-21,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,9956,5774,9956,4182
+NM-00520,2026-06-23,Running Shoes,Fashion,Sindh,In-Store,1,7770,4429,7770,3341
+NM-00521,2026-02-13,Whey Protein 1kg,Health & Fitness,Islamabad,Online,2,9858,5915,19716,7886
+NM-00522,2026-02-20,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,WhatsApp Order,1,18172,10540,18172,7632
+NM-00523,2026-02-22,LED Desk Lamp,Electronics,Balochistan,WhatsApp Order,2,2155,1185,4310,1940
+NM-00524,2026-01-13,Study Table Wooden,Furniture,Sindh,Online,1,14814,8148,14814,6666
+NM-00525,2026-04-19,Wireless Earbuds,Electronics,Islamabad,In-Store,2,4439,2752,8878,3374
+NM-00526,2026-05-18,Whey Protein 1kg,Health & Fitness,Balochistan,WhatsApp Order,2,8420,5052,16840,6736
+NM-00527,2026-03-23,Bluetooth Speaker,Electronics,Punjab,Online,3,6723,3899,20169,8472
+NM-00528,2026-03-03,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,2,13157,7236,26314,11842
+NM-00529,2026-04-28,Sunglasses UV400,Fashion,Sindh,WhatsApp Order,1,3638,1528,3638,2110
+NM-00530,2026-01-25,Office Chair Ergo,Furniture,Sindh,Online,1,19965,11580,19965,8385
+NM-00531,2026-02-22,Ceramic Dinner Set,Home & Living,Sindh,Online,2,10997,5498,21994,10998
+NM-00532,2026-06-28,Power Bank 20000mAh,Electronics,Balochistan,Online,1,4118,2471,4118,1647
+NM-00533,2026-01-14,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,5260,2735,5260,2525
+NM-00534,2026-05-17,Leather Wallet,Fashion,Punjab,In-Store,1,3654,1644,3654,2010
+NM-00535,2026-04-23,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,In-Store,1,3640,2002,3640,1638
+NM-00536,2026-05-05,Wireless Earbuds,Electronics,Sindh,Online,1,5286,3277,5286,2009
+NM-00537,2026-05-12,Office Chair Ergo,Furniture,Punjab,Online,2,19572,11352,39144,16440
+NM-00538,2026-01-19,Running Shoes,Fashion,Punjab,Online,1,4972,2834,4972,2138
+NM-00539,2026-03-09,Wall Clock Classic,Home & Living,Punjab,Online,2,2587,1242,5174,2690
+NM-00540,2026-01-07,Cotton Bedsheet Set,Home & Living,Punjab,Online,3,6666,3466,19998,9600
+NM-00541,2026-01-23,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,In-Store,1,8577,4975,8577,3602
+NM-00542,2026-04-14,Floor Lamp Modern,Furniture,Sindh,Online,1,6303,3152,6303,3151
+NM-00543,2026-05-07,Bookshelf 5-Tier,Furniture,Punjab,WhatsApp Order,1,10550,5486,10550,5064
+NM-00544,2026-01-25,Dumbbell Set 20kg,Health & Fitness,Sindh,WhatsApp Order,1,8608,4993,8608,3615
+NM-00545,2026-06-25,Wireless Earbuds,Electronics,Sindh,In-Store,1,2941,1823,2941,1118
+NM-00546,2026-04-14,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,2,1560,702,3120,1716
+NM-00547,2026-05-25,Wireless Earbuds,Electronics,Punjab,Online,1,5245,3252,5245,1993
+NM-00548,2026-06-10,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,2,14909,8200,29818,13418
+NM-00549,2026-02-28,Bluetooth Speaker,Electronics,Punjab,In-Store,2,8177,4743,16354,6868
+NM-00550,2026-02-19,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,2,5950,3451,11900,4998
+NM-00551,2026-01-18,Yoga Mat Pro,Health & Fitness,Sindh,In-Store,1,4191,2096,4191,2095
+NM-00552,2026-06-05,Cotton Kurta,Fashion,Islamabad,In-Store,1,4169,2084,4169,2085
+NM-00553,2026-05-09,Office Chair Ergo,Furniture,Sindh,Online,1,18298,10613,18298,7685
+NM-00554,2026-03-18,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,In-Store,2,10685,6411,21370,8548
+NM-00555,2026-02-28,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,2,10072,6043,20144,8058
+NM-00556,2026-01-07,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,Online,3,15624,8593,46872,21093
+NM-00557,2026-02-12,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,Online,1,3620,1810,3620,1810
+NM-00558,2026-06-11,Wireless Earbuds,Electronics,Islamabad,Online,1,4683,2903,4683,1780
+NM-00559,2026-01-09,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,Online,1,3298,1583,3298,1715
+NM-00560,2026-05-20,Dumbbell Set 20kg,Health & Fitness,Sindh,WhatsApp Order,3,8825,5118,26475,11121
+NM-00561,2026-01-06,Yoga Mat Pro,Health & Fitness,Islamabad,In-Store,1,2309,1154,2309,1155
+NM-00562,2026-05-16,Ceramic Dinner Set,Home & Living,Sindh,Online,2,8732,4366,17464,8732
+NM-00563,2026-04-08,Leather Wallet,Fashion,Punjab,Online,1,2664,1199,2664,1465
+NM-00564,2026-06-07,Office Chair Ergo,Furniture,Punjab,In-Store,1,15652,9078,15652,6574
+NM-00565,2026-01-14,Wall Clock Classic,Home & Living,Sindh,In-Store,1,2555,1226,2555,1329
+NM-00566,2026-01-23,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,3542,1842,3542,1700
+NM-00567,2026-05-26,Cotton Kurta,Fashion,Punjab,WhatsApp Order,1,5695,2848,5695,2847
+NM-00568,2026-03-18,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,In-Store,3,7744,4182,23232,10686
+NM-00569,2026-01-11,Whey Protein 1kg,Health & Fitness,Punjab,Online,1,7777,4666,7777,3111
+NM-00570,2026-01-07,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,2,6719,3897,13438,5644
+NM-00571,2026-01-02,Sunglasses UV400,Fashion,Punjab,Online,1,2000,840,2000,1160
+NM-00572,2026-05-17,Bluetooth Speaker,Electronics,Punjab,Online,1,5881,3411,5881,2470
+NM-00573,2026-01-07,Resistance Bands Kit,Health & Fitness,Sindh,Online,2,1773,798,3546,1950
+NM-00574,2026-01-07,Cotton Bedsheet Set,Home & Living,Islamabad,Online,1,7053,3668,7053,3385
+NM-00575,2026-02-19,Leather Wallet,Fashion,Punjab,In-Store,1,1932,869,1932,1063
+NM-00576,2026-02-05,Leather Wallet,Fashion,Sindh,In-Store,1,2005,902,2005,1103
+NM-00577,2026-03-24,Sunglasses UV400,Fashion,Balochistan,Online,1,2232,937,2232,1295
+NM-00578,2026-06-18,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,2,6283,3644,12566,5278
+NM-00579,2026-04-15,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,2938,1763,2938,1175
+NM-00580,2026-06-05,Yoga Mat Pro,Health & Fitness,Punjab,Online,2,4167,2084,8334,4166
+NM-00581,2026-06-06,Sunglasses UV400,Fashion,Punjab,In-Store,1,2195,922,2195,1273
+NM-00582,2026-06-28,Resistance Bands Kit,Health & Fitness,Punjab,WhatsApp Order,1,1821,819,1821,1002
+NM-00583,2026-01-05,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,1753,789,1753,964
+NM-00584,2026-02-19,Study Table Wooden,Furniture,Sindh,In-Store,1,10189,5604,10189,4585
+NM-00585,2026-04-18,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,Online,2,7541,4072,15082,6938
+NM-00586,2026-02-04,Wireless Earbuds,Electronics,Sindh,Online,3,2933,1818,8799,3345
+NM-00587,2026-05-07,Wall Clock Classic,Home & Living,Punjab,In-Store,2,1856,891,3712,1930
+NM-00588,2026-01-14,Whey Protein 1kg,Health & Fitness,Punjab,WhatsApp Order,1,11613,6968,11613,4645
+NM-00589,2026-01-22,Bookshelf 5-Tier,Furniture,Sindh,Online,1,9282,4827,9282,4455
+NM-00590,2026-06-27,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,3806,2284,3806,1522
+NM-00591,2026-02-20,Ceramic Dinner Set,Home & Living,Balochistan,In-Store,1,13474,6737,13474,6737
+NM-00592,2026-02-01,Cotton Kurta,Fashion,Punjab,Online,2,4487,2244,8974,4486
+NM-00593,2026-02-24,Office Chair Ergo,Furniture,Balochistan,Online,1,25121,14570,25121,10551
+NM-00594,2026-02-07,Wall Clock Classic,Home & Living,Punjab,In-Store,1,2856,1371,2856,1485
+NM-00595,2026-04-02,Resistance Bands Kit,Health & Fitness,Islamabad,Online,2,2276,1024,4552,2504
+NM-00596,2026-06-03,Non-stick Cookware Set,Home & Living,Balochistan,Online,1,13599,7343,13599,6256
+NM-00597,2026-01-21,Sunglasses UV400,Fashion,Islamabad,Online,1,3887,1633,3887,2254
+NM-00598,2026-06-16,Cotton Bedsheet Set,Home & Living,Islamabad,WhatsApp Order,2,5324,2768,10648,5112
+NM-00599,2026-06-15,Bookshelf 5-Tier,Furniture,Balochistan,Online,1,8849,4601,8849,4248
+NM-00600,2026-05-10,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,1,11855,6165,11855,5690
+NM-00601,2026-03-25,Wall Clock Classic,Home & Living,Sindh,In-Store,1,2483,1192,2483,1291
+NM-00602,2026-04-19,Power Bank 20000mAh,Electronics,Sindh,Online,1,4405,2643,4405,1762
+NM-00603,2026-03-27,Whey Protein 1kg,Health & Fitness,Punjab,Online,3,9827,5896,29481,11793
+NM-00604,2026-03-22,Floor Lamp Modern,Furniture,Punjab,In-Store,2,7694,3847,15388,7694
+NM-00605,2026-01-04,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,2057,926,2057,1131
+NM-00606,2026-05-07,Bluetooth Speaker,Electronics,Sindh,In-Store,1,6397,3710,6397,2687
+NM-00607,2026-03-03,Running Shoes,Fashion,Sindh,Online,1,6034,3439,6034,2595
+NM-00608,2026-02-04,Non-stick Cookware Set,Home & Living,Sindh,WhatsApp Order,1,12094,6531,12094,5563
+NM-00609,2026-04-09,Cotton Kurta,Fashion,Punjab,WhatsApp Order,1,3418,1709,3418,1709
+NM-00610,2026-05-13,Leather Wallet,Fashion,Islamabad,Online,1,3846,1731,3846,2115
+NM-00611,2026-05-07,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,14905,7452,14905,7453
+NM-00612,2026-02-15,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,Online,1,14130,7348,14130,6782
+NM-00613,2026-05-24,Office Chair Ergo,Furniture,Islamabad,WhatsApp Order,1,24913,14450,24913,10463
+NM-00614,2026-06-14,Bluetooth Speaker,Electronics,Sindh,WhatsApp Order,1,7712,4473,7712,3239
+NM-00615,2026-03-10,Whey Protein 1kg,Health & Fitness,Punjab,Online,2,10777,6466,21554,8622
+NM-00616,2026-04-12,Wireless Earbuds,Electronics,Islamabad,In-Store,2,2733,1694,5466,2078
+NM-00617,2026-04-15,Leather Wallet,Fashion,Khyber Pakhtunkhwa,Online,2,3899,1755,7798,4288
+NM-00618,2026-01-11,Resistance Bands Kit,Health & Fitness,Islamabad,In-Store,1,1480,666,1480,814
+NM-00619,2026-02-19,Bookshelf 5-Tier,Furniture,Sindh,Online,1,11661,6064,11661,5597
+NM-00620,2026-06-09,Wall Clock Classic,Home & Living,Punjab,Online,2,2692,1292,5384,2800
+NM-00621,2026-04-21,Bluetooth Speaker,Electronics,Islamabad,Online,1,8738,5068,8738,3670
+NM-00622,2026-06-09,Cotton Kurta,Fashion,Sindh,In-Store,2,3463,1732,6926,3462
+NM-00623,2026-05-12,Cotton Bedsheet Set,Home & Living,Islamabad,In-Store,1,4844,2519,4844,2325
+NM-00624,2026-06-17,Ceramic Dinner Set,Home & Living,Sindh,WhatsApp Order,2,13611,6806,27222,13610
+NM-00625,2026-03-23,Ceramic Dinner Set,Home & Living,Islamabad,In-Store,1,12962,6481,12962,6481
+NM-00626,2026-03-15,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,7388,4433,7388,2955
+NM-00627,2026-04-09,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,In-Store,2,2635,1449,5270,2372
+NM-00628,2026-04-21,Ceramic Dinner Set,Home & Living,Punjab,Online,1,13656,6828,13656,6828
+NM-00629,2026-06-18,Yoga Mat Pro,Health & Fitness,Sindh,WhatsApp Order,1,2113,1056,2113,1057
+NM-00630,2026-05-26,Leather Wallet,Fashion,Sindh,In-Store,1,4381,1971,4381,2410
+NM-00631,2026-05-27,Bookshelf 5-Tier,Furniture,Islamabad,In-Store,1,10003,5202,10003,4801
+NM-00632,2026-02-03,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,2,11079,6093,22158,9972
+NM-00633,2026-06-04,Leather Wallet,Fashion,Islamabad,Online,1,2479,1116,2479,1363
+NM-00634,2026-06-04,Whey Protein 1kg,Health & Fitness,Balochistan,Online,2,9731,5839,19462,7784
+NM-00635,2026-04-13,Resistance Bands Kit,Health & Fitness,Punjab,WhatsApp Order,1,1889,850,1889,1039
+NM-00636,2026-05-24,Office Chair Ergo,Furniture,Islamabad,In-Store,1,20777,12051,20777,8726
+NM-00637,2026-03-22,Bluetooth Speaker,Electronics,Punjab,Online,1,6884,3993,6884,2891
+NM-00638,2026-02-19,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,Online,1,3453,1726,3453,1727
+NM-00639,2026-06-26,Cotton Bedsheet Set,Home & Living,Balochistan,In-Store,1,4438,2308,4438,2130
+NM-00640,2026-01-10,Power Bank 20000mAh,Electronics,Punjab,Online,1,5457,3274,5457,2183
+NM-00641,2026-06-13,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,Online,1,6453,3226,6453,3227
+NM-00642,2026-05-09,Floor Lamp Modern,Furniture,Punjab,In-Store,2,5945,2972,11890,5946
+NM-00643,2026-05-26,Bluetooth Speaker,Electronics,Sindh,In-Store,1,6446,3739,6446,2707
+NM-00644,2026-03-07,Wireless Earbuds,Electronics,Punjab,In-Store,1,4374,2712,4374,1662
+NM-00645,2026-01-15,Bookshelf 5-Tier,Furniture,Punjab,Online,1,12045,6263,12045,5782
+NM-00646,2026-04-04,Resistance Bands Kit,Health & Fitness,Islamabad,WhatsApp Order,1,1659,747,1659,912
+NM-00647,2026-05-19,Wall Clock Classic,Home & Living,Balochistan,In-Store,1,2392,1148,2392,1244
+NM-00648,2026-05-18,Wireless Earbuds,Electronics,Punjab,In-Store,2,3413,2116,6826,2594
+NM-00649,2026-04-12,Bluetooth Speaker,Electronics,Punjab,In-Store,1,8661,5023,8661,3638
+NM-00650,2026-04-17,Bookshelf 5-Tier,Furniture,Islamabad,WhatsApp Order,1,10850,5642,10850,5208
+NM-00651,2026-03-18,Cotton Kurta,Fashion,Punjab,In-Store,3,5494,2747,16482,8241
+NM-00652,2026-02-14,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,1,10560,6125,10560,4435
+NM-00653,2026-04-06,Leather Wallet,Fashion,Islamabad,In-Store,1,2595,1168,2595,1427
+NM-00654,2026-02-26,Non-stick Cookware Set,Home & Living,Sindh,Online,1,12835,6931,12835,5904
+NM-00655,2026-03-24,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,In-Store,2,6268,3886,12536,4764
+NM-00656,2026-03-07,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,Online,2,1853,926,3706,1854
+NM-00657,2026-05-09,Study Table Wooden,Furniture,Sindh,In-Store,1,15322,8427,15322,6895
+NM-00658,2026-03-10,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,In-Store,2,1981,1090,3962,1782
+NM-00659,2026-01-26,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,1,6336,3675,6336,2661
+NM-00660,2026-04-16,Bluetooth Speaker,Electronics,Sindh,Online,2,6265,3634,12530,5262
+NM-00661,2026-02-28,LED Desk Lamp,Electronics,Sindh,In-Store,1,3963,2180,3963,1783
+NM-00662,2026-03-22,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,2,6340,3931,12680,4818
+NM-00663,2026-05-14,Whey Protein 1kg,Health & Fitness,Balochistan,In-Store,2,7818,4691,15636,6254
+NM-00664,2026-01-04,Non-stick Cookware Set,Home & Living,Sindh,In-Store,1,12462,6729,12462,5733
+NM-00665,2026-01-15,Power Bank 20000mAh,Electronics,Sindh,In-Store,2,3635,2181,7270,2908
+NM-00666,2026-03-11,Floor Lamp Modern,Furniture,Sindh,Online,2,8784,4392,17568,8784
+NM-00667,2026-02-01,Wall Clock Classic,Home & Living,Sindh,In-Store,2,2337,1122,4674,2430
+NM-00668,2026-05-05,Non-stick Cookware Set,Home & Living,Sindh,Online,1,10104,5456,10104,4648
+NM-00669,2026-06-15,Bluetooth Speaker,Electronics,Punjab,In-Store,2,8170,4739,16340,6862
+NM-00670,2026-04-21,Wall Clock Classic,Home & Living,Sindh,In-Store,1,3423,1643,3423,1780
+NM-00671,2026-04-20,Whey Protein 1kg,Health & Fitness,Balochistan,WhatsApp Order,1,7013,4208,7013,2805
+NM-00672,2026-01-13,Bookshelf 5-Tier,Furniture,Punjab,Online,2,13955,7257,27910,13396
+NM-00673,2026-06-02,Wall Clock Classic,Home & Living,Punjab,In-Store,2,1884,904,3768,1960
+NM-00674,2026-04-02,Whey Protein 1kg,Health & Fitness,Islamabad,Online,3,8469,5081,25407,10164
+NM-00675,2026-01-18,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,10889,5662,10889,5227
+NM-00676,2026-01-25,LED Desk Lamp,Electronics,Sindh,Online,1,2565,1411,2565,1154
+NM-00677,2026-03-04,Office Chair Ergo,Furniture,Sindh,WhatsApp Order,3,26893,15598,80679,33885
+NM-00678,2026-01-28,Wireless Earbuds,Electronics,Punjab,Online,1,4776,2961,4776,1815
+NM-00679,2026-05-20,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,Online,1,10771,5924,10771,4847
+NM-00680,2026-04-13,Wireless Earbuds,Electronics,Punjab,Online,2,4793,2972,9586,3642
+NM-00681,2026-04-07,LED Desk Lamp,Electronics,Islamabad,Online,1,2648,1456,2648,1192
+NM-00682,2026-01-18,Office Chair Ergo,Furniture,Punjab,In-Store,1,19775,11470,19775,8305
+NM-00683,2026-01-03,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,1,2622,1101,2622,1521
+NM-00684,2026-05-19,Cotton Kurta,Fashion,Punjab,In-Store,1,5948,2974,5948,2974
+NM-00685,2026-06-23,Floor Lamp Modern,Furniture,Sindh,In-Store,1,5952,2976,5952,2976
+NM-00686,2026-05-19,Non-stick Cookware Set,Home & Living,Balochistan,WhatsApp Order,2,12714,6866,25428,11696
+NM-00687,2026-01-23,Wireless Earbuds,Electronics,Balochistan,In-Store,1,5244,3251,5244,1993
+NM-00688,2026-01-06,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,In-Store,1,6603,3302,6603,3301
+NM-00689,2026-03-28,Sunglasses UV400,Fashion,Punjab,In-Store,1,1616,679,1616,937
+NM-00690,2026-06-21,Resistance Bands Kit,Health & Fitness,Khyber Pakhtunkhwa,Online,1,2761,1242,2761,1519
+NM-00691,2026-03-09,Wall Clock Classic,Home & Living,Punjab,In-Store,1,1553,745,1553,808
+NM-00692,2026-03-27,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,WhatsApp Order,2,2807,1404,5614,2806
+NM-00693,2026-01-18,Ceramic Dinner Set,Home & Living,Islamabad,In-Store,1,10217,5108,10217,5109
+NM-00694,2026-03-12,Bluetooth Speaker,Electronics,Sindh,In-Store,1,7901,4583,7901,3318
+NM-00695,2026-01-21,Study Table Wooden,Furniture,Sindh,WhatsApp Order,3,13513,7432,40539,18243
+NM-00696,2026-06-25,Bluetooth Speaker,Electronics,Punjab,WhatsApp Order,1,8806,5107,8806,3699
+NM-00697,2026-01-23,Running Shoes,Fashion,Islamabad,In-Store,1,8033,4579,8033,3454
+NM-00698,2026-04-20,Ceramic Dinner Set,Home & Living,Punjab,In-Store,2,13158,6579,26316,13158
+NM-00699,2026-01-03,Non-stick Cookware Set,Home & Living,Islamabad,Online,1,11752,6346,11752,5406
+NM-00700,2026-05-05,Bluetooth Speaker,Electronics,Sindh,In-Store,1,8397,4870,8397,3527
+NM-00701,2026-06-03,Study Table Wooden,Furniture,Punjab,Online,1,9738,5356,9738,4382
+NM-00702,2026-06-16,Office Chair Ergo,Furniture,Islamabad,In-Store,2,25264,14653,50528,21222
+NM-00703,2026-01-09,Leather Wallet,Fashion,Khyber Pakhtunkhwa,In-Store,1,3417,1538,3417,1879
+NM-00704,2026-06-04,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,8304,4816,8304,3488
+NM-00705,2026-02-04,Non-stick Cookware Set,Home & Living,Punjab,Online,1,13077,7062,13077,6015
+NM-00706,2026-02-03,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,2,4794,2781,9588,4026
+NM-00707,2026-03-06,Power Bank 20000mAh,Electronics,Balochistan,In-Store,1,3388,2033,3388,1355
+NM-00708,2026-03-21,Bluetooth Speaker,Electronics,Punjab,In-Store,1,8166,4736,8166,3430
+NM-00709,2026-03-28,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,6111,3178,6111,2933
+NM-00710,2026-06-09,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,WhatsApp Order,1,3000,1260,3000,1740
+NM-00711,2026-02-10,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,6746,4048,6746,2698
+NM-00712,2026-04-28,Sunglasses UV400,Fashion,Sindh,WhatsApp Order,1,2486,1044,2486,1442
+NM-00713,2026-01-04,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,9525,5715,9525,3810
+NM-00714,2026-01-04,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,10049,5828,10049,4221
+NM-00715,2026-04-06,Wall Clock Classic,Home & Living,Punjab,In-Store,1,3244,1557,3244,1687
+NM-00716,2026-03-15,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,3,1689,760,5067,2787
+NM-00717,2026-02-16,Non-stick Cookware Set,Home & Living,Islamabad,WhatsApp Order,1,11111,6000,11111,5111
+NM-00718,2026-04-04,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,4568,2741,4568,1827
+NM-00719,2026-03-07,LED Desk Lamp,Electronics,Sindh,WhatsApp Order,1,2140,1177,2140,963
+NM-00720,2026-06-05,Bluetooth Speaker,Electronics,Punjab,In-Store,1,7211,4182,7211,3029
+NM-00721,2026-03-03,LED Desk Lamp,Electronics,Punjab,In-Store,1,3745,2060,3745,1685
+NM-00722,2026-06-26,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,In-Store,1,14400,8352,14400,6048
+NM-00723,2026-06-08,Resistance Bands Kit,Health & Fitness,Khyber Pakhtunkhwa,In-Store,1,2560,1152,2560,1408
+NM-00724,2026-03-24,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,Online,1,4306,2584,4306,1722
+NM-00725,2026-01-20,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,1,6171,3579,6171,2592
+NM-00726,2026-02-27,Non-stick Cookware Set,Home & Living,Sindh,WhatsApp Order,2,8994,4857,17988,8274
+NM-00727,2026-04-01,Ceramic Dinner Set,Home & Living,Sindh,In-Store,1,8706,4353,8706,4353
+NM-00728,2026-03-17,Resistance Bands Kit,Health & Fitness,Khyber Pakhtunkhwa,In-Store,3,2577,1160,7731,4251
+NM-00729,2026-04-07,Leather Wallet,Fashion,Islamabad,Online,1,3670,1652,3670,2018
+NM-00730,2026-01-14,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,Online,1,14122,7061,14122,7061
+NM-00731,2026-02-08,Wireless Earbuds,Electronics,Punjab,In-Store,1,3134,1943,3134,1191
+NM-00732,2026-05-18,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,7627,4576,7627,3051
+NM-00733,2026-04-05,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,7477,3888,7477,3589
+NM-00734,2026-02-08,Yoga Mat Pro,Health & Fitness,Balochistan,Online,1,2486,1243,2486,1243
+NM-00735,2026-03-19,Wall Clock Classic,Home & Living,Punjab,WhatsApp Order,3,2117,1016,6351,3303
+NM-00736,2026-04-04,Power Bank 20000mAh,Electronics,Punjab,In-Store,2,4584,2750,9168,3668
+NM-00737,2026-03-03,Leather Wallet,Fashion,Sindh,Online,2,2517,1133,5034,2768
+NM-00738,2026-03-26,Office Chair Ergo,Furniture,Punjab,Online,1,23553,13661,23553,9892
+NM-00739,2026-05-22,Sunglasses UV400,Fashion,Punjab,In-Store,3,3637,1528,10911,6327
+NM-00740,2026-03-19,Whey Protein 1kg,Health & Fitness,Islamabad,Online,2,7987,4792,15974,6390
+NM-00741,2026-04-12,Office Chair Ergo,Furniture,Punjab,Online,1,18217,10566,18217,7651
+NM-00742,2026-05-22,Resistance Bands Kit,Health & Fitness,Balochistan,In-Store,1,1634,735,1634,899
+NM-00743,2026-04-11,Ceramic Dinner Set,Home & Living,Balochistan,In-Store,3,16126,8063,48378,24189
+NM-00744,2026-04-03,Non-stick Cookware Set,Home & Living,Islamabad,WhatsApp Order,1,10944,5910,10944,5034
+NM-00745,2026-02-12,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,1,3056,1284,3056,1772
+NM-00746,2026-02-21,Non-stick Cookware Set,Home & Living,Punjab,In-Store,1,13700,7398,13700,6302
+NM-00747,2026-04-20,Yoga Mat Pro,Health & Fitness,Sindh,In-Store,1,2118,1059,2118,1059
+NM-00748,2026-05-12,Sunglasses UV400,Fashion,Balochistan,Online,1,3290,1382,3290,1908
+NM-00749,2026-06-22,Ceramic Dinner Set,Home & Living,Islamabad,Online,1,14955,7478,14955,7477
+NM-00750,2026-05-21,Non-stick Cookware Set,Home & Living,Sindh,Online,1,11698,6317,11698,5381
+NM-00751,2026-03-25,Leather Wallet,Fashion,Balochistan,Online,1,4457,2006,4457,2451
+NM-00752,2026-06-25,Bookshelf 5-Tier,Furniture,Punjab,Online,1,7873,4094,7873,3779
+NM-00753,2026-06-18,Running Shoes,Fashion,Punjab,In-Store,1,4738,2701,4738,2037
+NM-00754,2026-06-08,Wireless Earbuds,Electronics,Punjab,Online,1,3211,1991,3211,1220
+NM-00755,2026-02-01,Wireless Earbuds,Electronics,Punjab,In-Store,1,2967,1840,2967,1127
+NM-00756,2026-04-11,Bluetooth Speaker,Electronics,Punjab,Online,1,7778,4511,7778,3267
+NM-00757,2026-03-11,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,3143,1886,3143,1257
+NM-00758,2026-01-23,Running Shoes,Fashion,Khyber Pakhtunkhwa,In-Store,2,5579,3180,11158,4798
+NM-00759,2026-04-05,Non-stick Cookware Set,Home & Living,Sindh,In-Store,2,11457,6187,22914,10540
+NM-00760,2026-02-27,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,3377,1688,3377,1689
+NM-00761,2026-01-26,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,1392,626,1392,766
+NM-00762,2026-04-26,Dumbbell Set 20kg,Health & Fitness,Balochistan,In-Store,1,7394,4289,7394,3105
+NM-00763,2026-04-05,Wireless Earbuds,Electronics,Punjab,Online,3,3289,2039,9867,3750
+NM-00764,2026-04-08,Running Shoes,Fashion,Sindh,Online,1,8606,4905,8606,3701
+NM-00765,2026-01-08,Wireless Earbuds,Electronics,Punjab,Online,1,3405,2111,3405,1294
+NM-00766,2026-04-20,Non-stick Cookware Set,Home & Living,Islamabad,WhatsApp Order,1,13887,7499,13887,6388
+NM-00767,2026-03-05,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,Online,1,9516,4758,9516,4758
+NM-00768,2026-06-22,Leather Wallet,Fashion,Khyber Pakhtunkhwa,In-Store,1,3424,1541,3424,1883
+NM-00769,2026-05-11,Bluetooth Speaker,Electronics,Sindh,In-Store,1,5904,3424,5904,2480
+NM-00770,2026-06-08,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,5747,3333,5747,2414
+NM-00771,2026-05-28,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,1,3451,1449,3451,2002
+NM-00772,2026-01-20,Whey Protein 1kg,Health & Fitness,Punjab,Online,1,10082,6049,10082,4033
+NM-00773,2026-02-15,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,Online,1,6290,3145,6290,3145
+NM-00774,2026-03-18,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,8077,4685,8077,3392
+NM-00775,2026-06-09,Cotton Bedsheet Set,Home & Living,Islamabad,Online,2,3506,1823,7012,3366
+NM-00776,2026-01-15,Floor Lamp Modern,Furniture,Punjab,Online,1,4487,2244,4487,2243
+NM-00777,2026-03-14,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,Online,1,15404,8934,15404,6470
+NM-00778,2026-06-02,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,Online,2,3979,2387,7958,3184
+NM-00779,2026-06-03,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,In-Store,2,3471,1736,6942,3470
+NM-00780,2026-02-06,Whey Protein 1kg,Health & Fitness,Sindh,WhatsApp Order,1,9988,5993,9988,3995
+NM-00781,2026-04-18,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,2175,1196,2175,979
+NM-00782,2026-04-16,Wall Clock Classic,Home & Living,Punjab,In-Store,1,2257,1083,2257,1174
+NM-00783,2026-06-07,Cotton Bedsheet Set,Home & Living,Sindh,WhatsApp Order,2,4786,2489,9572,4594
+NM-00784,2026-05-11,Wall Clock Classic,Home & Living,Sindh,WhatsApp Order,1,1613,774,1613,839
+NM-00785,2026-02-28,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,Online,1,6831,3416,6831,3415
+NM-00786,2026-06-07,Yoga Mat Pro,Health & Fitness,Islamabad,Online,2,2030,1015,4060,2030
+NM-00787,2026-01-26,Running Shoes,Fashion,Punjab,WhatsApp Order,1,9468,5397,9468,4071
+NM-00788,2026-02-28,Cotton Kurta,Fashion,Islamabad,In-Store,2,6154,3077,12308,6154
+NM-00789,2026-05-12,Whey Protein 1kg,Health & Fitness,Islamabad,In-Store,1,9598,5759,9598,3839
+NM-00790,2026-06-14,Bookshelf 5-Tier,Furniture,Balochistan,Online,2,13689,7118,27378,13142
+NM-00791,2026-01-24,Ceramic Dinner Set,Home & Living,Punjab,Online,2,10966,5483,21932,10966
+NM-00792,2026-04-14,Leather Wallet,Fashion,Khyber Pakhtunkhwa,Online,1,2347,1056,2347,1291
+NM-00793,2026-01-12,Ceramic Dinner Set,Home & Living,Punjab,WhatsApp Order,2,13738,6869,27476,13738
+NM-00794,2026-06-28,Study Table Wooden,Furniture,Balochistan,WhatsApp Order,2,10286,5657,20572,9258
+NM-00795,2026-03-16,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,2,7254,4207,14508,6094
+NM-00796,2026-01-11,Wireless Earbuds,Electronics,Punjab,In-Store,2,6198,3843,12396,4710
+NM-00797,2026-01-16,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,In-Store,2,3612,2167,7224,2890
+NM-00798,2026-04-13,Leather Wallet,Fashion,Islamabad,In-Store,1,4415,1987,4415,2428
+NM-00799,2026-03-24,Leather Wallet,Fashion,Punjab,Online,1,3242,1459,3242,1783
+NM-00800,2026-05-03,Resistance Bands Kit,Health & Fitness,Islamabad,Online,1,2113,951,2113,1162
+NM-00801,2026-02-07,Sunglasses UV400,Fashion,Islamabad,Online,1,3723,1564,3723,2159
+NM-00802,2026-01-21,Bookshelf 5-Tier,Furniture,Sindh,In-Store,1,7785,4048,7785,3737
+NM-00803,2026-02-14,Bluetooth Speaker,Electronics,Balochistan,Online,1,5005,2903,5005,2102
+NM-00804,2026-03-04,Wall Clock Classic,Home & Living,Islamabad,WhatsApp Order,1,1736,833,1736,903
+NM-00805,2026-04-06,Whey Protein 1kg,Health & Fitness,Islamabad,In-Store,1,11717,7030,11717,4687
+NM-00806,2026-03-11,Office Chair Ergo,Furniture,Sindh,Online,3,25996,15078,77988,32754
+NM-00807,2026-01-22,Cotton Bedsheet Set,Home & Living,Sindh,Online,3,6296,3274,18888,9066
+NM-00808,2026-02-01,Study Table Wooden,Furniture,Sindh,WhatsApp Order,2,11348,6241,22696,10214
+NM-00809,2026-02-17,Wireless Earbuds,Electronics,Islamabad,WhatsApp Order,1,6191,3838,6191,2353
+NM-00810,2026-02-17,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,6765,3924,6765,2841
+NM-00811,2026-01-14,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,5322,2767,5322,2555
+NM-00812,2026-06-15,Power Bank 20000mAh,Electronics,Balochistan,WhatsApp Order,2,3178,1907,6356,2542
+NM-00813,2026-02-24,Wall Clock Classic,Home & Living,Sindh,In-Store,1,3705,1778,3705,1927
+NM-00814,2026-05-06,Non-stick Cookware Set,Home & Living,Punjab,In-Store,2,11296,6100,22592,10392
+NM-00815,2026-05-23,Non-stick Cookware Set,Home & Living,Sindh,In-Store,2,8732,4715,17464,8034
+NM-00816,2026-04-01,Dumbbell Set 20kg,Health & Fitness,Islamabad,Online,2,6207,3600,12414,5214
+NM-00817,2026-04-05,Cotton Kurta,Fashion,Punjab,Online,1,4684,2342,4684,2342
+NM-00818,2026-04-25,Wall Clock Classic,Home & Living,Islamabad,In-Store,1,2314,1111,2314,1203
+NM-00819,2026-04-10,Leather Wallet,Fashion,Sindh,In-Store,1,2463,1108,2463,1355
+NM-00820,2026-05-11,LED Desk Lamp,Electronics,Sindh,Online,1,3866,2126,3866,1740
+NM-00821,2026-05-16,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,1767,795,1767,972
+NM-00822,2026-02-17,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,1,12316,6158,12316,6158
+NM-00823,2026-04-04,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,Online,1,3241,1361,3241,1880
+NM-00824,2026-06-05,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,10190,5910,10190,4280
+NM-00825,2026-04-12,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,WhatsApp Order,1,24321,14106,24321,10215
+NM-00826,2026-05-10,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,17580,8790,17580,8790
+NM-00827,2026-06-05,Sunglasses UV400,Fashion,Sindh,Online,2,3133,1316,6266,3634
+NM-00828,2026-03-26,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,17501,8750,17501,8751
+NM-00829,2026-02-26,Wireless Earbuds,Electronics,Sindh,In-Store,1,5024,3115,5024,1909
+NM-00830,2026-03-17,Wireless Earbuds,Electronics,Balochistan,In-Store,1,3932,2438,3932,1494
+NM-00831,2026-04-04,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,Online,1,3842,1921,3842,1921
+NM-00832,2026-03-01,Sunglasses UV400,Fashion,Balochistan,Online,1,3088,1297,3088,1791
+NM-00833,2026-01-09,Cotton Kurta,Fashion,Punjab,Online,2,3979,1990,7958,3978
+NM-00834,2026-01-03,Non-stick Cookware Set,Home & Living,Balochistan,In-Store,1,8217,4437,8217,3780
+NM-00835,2026-02-08,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,Online,1,4588,2753,4588,1835
+NM-00836,2026-01-05,Study Table Wooden,Furniture,Punjab,WhatsApp Order,2,18524,10188,37048,16672
+NM-00837,2026-04-27,Non-stick Cookware Set,Home & Living,Islamabad,In-Store,2,6826,3686,13652,6280
+NM-00838,2026-01-21,Ceramic Dinner Set,Home & Living,Punjab,In-Store,3,10569,5284,31707,15855
+NM-00839,2026-01-02,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,In-Store,1,3842,2382,3842,1460
+NM-00840,2026-02-04,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,1,11735,5868,11735,5867
+NM-00841,2026-03-04,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,3132,1566,3132,1566
+NM-00842,2026-01-22,Ceramic Dinner Set,Home & Living,Punjab,In-Store,1,11212,5606,11212,5606
+NM-00843,2026-06-21,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,In-Store,1,4624,2774,4624,1850
+NM-00844,2026-04-18,Bookshelf 5-Tier,Furniture,Islamabad,Online,1,7613,3959,7613,3654
+NM-00845,2026-03-22,Whey Protein 1kg,Health & Fitness,Islamabad,WhatsApp Order,3,10689,6413,32067,12828
+NM-00846,2026-05-17,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,7269,3780,7269,3489
+NM-00847,2026-01-17,Office Chair Ergo,Furniture,Sindh,Online,2,14091,8173,28182,11836
+NM-00848,2026-02-19,Whey Protein 1kg,Health & Fitness,Islamabad,WhatsApp Order,1,11928,7157,11928,4771
+NM-00849,2026-05-06,Cotton Kurta,Fashion,Punjab,WhatsApp Order,1,6466,3233,6466,3233
+NM-00850,2026-06-26,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,In-Store,3,4235,2118,12705,6351
+NM-00851,2026-05-09,Floor Lamp Modern,Furniture,Islamabad,In-Store,1,6959,3480,6959,3479
+NM-00852,2026-03-28,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,3,7530,4367,22590,9489
+NM-00853,2026-01-19,Yoga Mat Pro,Health & Fitness,Sindh,WhatsApp Order,1,3004,1502,3004,1502
+NM-00854,2026-01-19,Cotton Bedsheet Set,Home & Living,Islamabad,Online,1,4042,2102,4042,1940
+NM-00855,2026-04-15,Running Shoes,Fashion,Khyber Pakhtunkhwa,In-Store,2,5166,2945,10332,4442
+NM-00856,2026-04-27,Leather Wallet,Fashion,Punjab,Online,1,2678,1205,2678,1473
+NM-00857,2026-02-17,Office Chair Ergo,Furniture,Sindh,Online,1,22634,13128,22634,9506
+NM-00858,2026-03-15,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,WhatsApp Order,1,4443,2222,4443,2221
+NM-00859,2026-01-24,Cotton Bedsheet Set,Home & Living,Islamabad,Online,1,5618,2921,5618,2697
+NM-00860,2026-06-05,Sunglasses UV400,Fashion,Islamabad,In-Store,2,4108,1725,8216,4766
+NM-00861,2026-05-02,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,9415,5461,9415,3954
+NM-00862,2026-01-07,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,Online,1,10421,6044,10421,4377
+NM-00863,2026-03-27,Floor Lamp Modern,Furniture,Khyber Pakhtunkhwa,Online,3,5718,2859,17154,8577
+NM-00864,2026-06-06,Office Chair Ergo,Furniture,Punjab,WhatsApp Order,1,18264,10593,18264,7671
+NM-00865,2026-04-28,Wall Clock Classic,Home & Living,Punjab,In-Store,1,2524,1212,2524,1312
+NM-00866,2026-05-10,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,8667,5027,8667,3640
+NM-00867,2026-02-04,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,Online,2,3723,1862,7446,3722
+NM-00868,2026-02-21,Dumbbell Set 20kg,Health & Fitness,Islamabad,WhatsApp Order,2,9439,5475,18878,7928
+NM-00869,2026-02-17,LED Desk Lamp,Electronics,Islamabad,WhatsApp Order,1,4069,2238,4069,1831
+NM-00870,2026-04-16,Resistance Bands Kit,Health & Fitness,Punjab,In-Store,1,1748,787,1748,961
+NM-00871,2026-05-11,Ceramic Dinner Set,Home & Living,Sindh,WhatsApp Order,2,14116,7058,28232,14116
+NM-00872,2026-02-16,Bookshelf 5-Tier,Furniture,Sindh,Online,3,9815,5104,29445,14133
+NM-00873,2026-03-25,Wireless Earbuds,Electronics,Punjab,In-Store,1,3801,2357,3801,1444
+NM-00874,2026-06-12,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,3,13873,7214,41619,19977
+NM-00875,2026-06-07,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,1,12365,6801,12365,5564
+NM-00876,2026-06-08,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,8027,4174,8027,3853
+NM-00877,2026-05-17,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,2771,1524,2771,1247
+NM-00878,2026-02-22,Bookshelf 5-Tier,Furniture,Punjab,WhatsApp Order,1,13342,6938,13342,6404
+NM-00879,2026-01-09,Cotton Kurta,Fashion,Punjab,In-Store,1,6466,3233,6466,3233
+NM-00880,2026-06-19,Study Table Wooden,Furniture,Punjab,In-Store,1,12461,6854,12461,5607
+NM-00881,2026-02-04,Non-stick Cookware Set,Home & Living,Islamabad,In-Store,1,7496,4048,7496,3448
+NM-00882,2026-03-22,Whey Protein 1kg,Health & Fitness,Punjab,Online,3,9818,5891,29454,11781
+NM-00883,2026-06-14,LED Desk Lamp,Electronics,Sindh,WhatsApp Order,1,2907,1599,2907,1308
+NM-00884,2026-01-01,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,In-Store,1,4551,2731,4551,1820
+NM-00885,2026-06-12,Study Table Wooden,Furniture,Islamabad,In-Store,1,11685,6427,11685,5258
+NM-00886,2026-02-06,Ceramic Dinner Set,Home & Living,Sindh,Online,1,10984,5492,10984,5492
+NM-00887,2026-02-10,Office Chair Ergo,Furniture,Sindh,In-Store,1,23291,13509,23291,9782
+NM-00888,2026-05-25,Wireless Earbuds,Electronics,Sindh,In-Store,1,5479,3397,5479,2082
+NM-00889,2026-01-08,Sunglasses UV400,Fashion,Balochistan,Online,2,2489,1045,4978,2888
+NM-00890,2026-04-11,Resistance Bands Kit,Health & Fitness,Islamabad,WhatsApp Order,1,2766,1245,2766,1521
+NM-00891,2026-01-15,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,In-Store,2,17913,10390,35826,15046
+NM-00892,2026-01-09,Bluetooth Speaker,Electronics,Punjab,In-Store,2,6216,3605,12432,5222
+NM-00893,2026-03-03,Office Chair Ergo,Furniture,Punjab,In-Store,3,26762,15522,80286,33720
+NM-00894,2026-03-14,Cotton Kurta,Fashion,Sindh,In-Store,1,3234,1617,3234,1617
+NM-00895,2026-01-16,LED Desk Lamp,Electronics,Balochistan,In-Store,2,2441,1343,4882,2196
+NM-00896,2026-01-11,Power Bank 20000mAh,Electronics,Khyber Pakhtunkhwa,In-Store,1,3219,1931,3219,1288
+NM-00897,2026-04-06,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,In-Store,1,2358,1132,2358,1226
+NM-00898,2026-04-01,Wall Clock Classic,Home & Living,Sindh,Online,1,3131,1503,3131,1628
+NM-00899,2026-03-12,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,In-Store,1,3816,1908,3816,1908
+NM-00900,2026-04-14,Yoga Mat Pro,Health & Fitness,Punjab,Online,1,2083,1042,2083,1041
+NM-00901,2026-03-21,LED Desk Lamp,Electronics,Sindh,In-Store,1,3366,1851,3366,1515
+NM-00902,2026-06-16,Bookshelf 5-Tier,Furniture,Punjab,Online,1,14125,7345,14125,6780
+NM-00903,2026-04-05,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,3749,1949,3749,1800
+NM-00904,2026-06-06,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,Online,1,13394,6965,13394,6429
+NM-00905,2026-01-26,Cotton Kurta,Fashion,Sindh,Online,1,3783,1892,3783,1891
+NM-00906,2026-03-06,Sunglasses UV400,Fashion,Punjab,WhatsApp Order,1,3165,1329,3165,1836
+NM-00907,2026-04-06,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,3040,1885,3040,1155
+NM-00908,2026-06-05,Running Shoes,Fashion,Balochistan,In-Store,1,10372,5912,10372,4460
+NM-00909,2026-02-01,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,2,3546,1844,7092,3404
+NM-00910,2026-05-11,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,WhatsApp Order,3,16741,9208,50223,22599
+NM-00911,2026-05-18,Non-stick Cookware Set,Home & Living,Sindh,In-Store,1,9049,4886,9049,4163
+NM-00912,2026-03-12,Office Chair Ergo,Furniture,Punjab,In-Store,1,23160,13433,23160,9727
+NM-00913,2026-05-05,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,In-Store,1,14366,8332,14366,6034
+NM-00914,2026-05-10,Running Shoes,Fashion,Khyber Pakhtunkhwa,Online,2,5474,3120,10948,4708
+NM-00915,2026-05-16,Wall Clock Classic,Home & Living,Sindh,In-Store,1,3592,1724,3592,1868
+NM-00916,2026-06-02,Running Shoes,Fashion,Khyber Pakhtunkhwa,Online,1,8453,4818,8453,3635
+NM-00917,2026-03-23,Leather Wallet,Fashion,Khyber Pakhtunkhwa,Online,1,3663,1648,3663,2015
+NM-00918,2026-02-27,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,Online,1,3270,1570,3270,1700
+NM-00919,2026-06-01,Running Shoes,Fashion,Sindh,In-Store,1,8992,5125,8992,3867
+NM-00920,2026-05-17,Leather Wallet,Fashion,Sindh,Online,1,2739,1233,2739,1506
+NM-00921,2026-06-24,Ceramic Dinner Set,Home & Living,Punjab,WhatsApp Order,1,16489,8244,16489,8245
+NM-00922,2026-01-23,Cotton Bedsheet Set,Home & Living,Islamabad,In-Store,2,5976,3108,11952,5736
+NM-00923,2026-04-05,Cotton Kurta,Fashion,Punjab,In-Store,3,3430,1715,10290,5145
+NM-00924,2026-03-02,Wall Clock Classic,Home & Living,Punjab,In-Store,1,2857,1371,2857,1486
+NM-00925,2026-04-07,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,6269,3260,6269,3009
+NM-00926,2026-05-13,Floor Lamp Modern,Furniture,Sindh,In-Store,3,6291,3146,18873,9435
+NM-00927,2026-01-24,Sunglasses UV400,Fashion,Punjab,Online,2,1967,826,3934,2282
+NM-00928,2026-05-23,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,Online,1,8194,4425,8194,3769
+NM-00929,2026-03-04,Non-stick Cookware Set,Home & Living,Islamabad,In-Store,2,12301,6643,24602,11316
+NM-00930,2026-05-25,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,14725,7657,14725,7068
+NM-00931,2026-06-28,Floor Lamp Modern,Furniture,Punjab,In-Store,1,4937,2468,4937,2469
+NM-00932,2026-03-14,Sunglasses UV400,Fashion,Punjab,WhatsApp Order,2,1563,656,3126,1814
+NM-00933,2026-02-21,Yoga Mat Pro,Health & Fitness,Punjab,Online,1,2797,1398,2797,1399
+NM-00934,2026-05-26,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,1,14476,7962,14476,6514
+NM-00935,2026-01-02,Whey Protein 1kg,Health & Fitness,Khyber Pakhtunkhwa,Online,1,10284,6170,10284,4114
+NM-00936,2026-04-18,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,2,7809,4685,15618,6248
+NM-00937,2026-06-15,Bluetooth Speaker,Electronics,Punjab,In-Store,1,6044,3506,6044,2538
+NM-00938,2026-01-03,Ceramic Dinner Set,Home & Living,Sindh,In-Store,1,14544,7272,14544,7272
+NM-00939,2026-06-12,Office Chair Ergo,Furniture,Punjab,In-Store,3,20036,11621,60108,25245
+NM-00940,2026-04-04,Sunglasses UV400,Fashion,Punjab,WhatsApp Order,2,2688,1129,5376,3118
+NM-00941,2026-03-28,Cotton Kurta,Fashion,Sindh,In-Store,1,5265,2632,5265,2633
+NM-00942,2026-01-20,Sunglasses UV400,Fashion,Islamabad,Online,1,1968,827,1968,1141
+NM-00943,2026-02-11,LED Desk Lamp,Electronics,Punjab,WhatsApp Order,1,3186,1752,3186,1434
+NM-00944,2026-02-13,Wireless Earbuds,Electronics,Punjab,Online,3,3163,1961,9489,3606
+NM-00945,2026-03-13,Running Shoes,Fashion,Khyber Pakhtunkhwa,In-Store,1,6406,3651,6406,2755
+NM-00946,2026-03-27,Power Bank 20000mAh,Electronics,Islamabad,In-Store,1,2917,1750,2917,1167
+NM-00947,2026-04-22,Power Bank 20000mAh,Electronics,Balochistan,Online,1,4835,2901,4835,1934
+NM-00948,2026-01-21,Ceramic Dinner Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,11551,5776,11551,5775
+NM-00949,2026-05-25,Ceramic Dinner Set,Home & Living,Punjab,Online,2,16848,8424,33696,16848
+NM-00950,2026-06-16,Floor Lamp Modern,Furniture,Punjab,Online,1,5111,2556,5111,2555
+NM-00951,2026-05-20,Bookshelf 5-Tier,Furniture,Sindh,Online,1,14327,7450,14327,6877
+NM-00952,2026-05-05,Sunglasses UV400,Fashion,Islamabad,Online,1,3521,1479,3521,2042
+NM-00953,2026-06-04,Bluetooth Speaker,Electronics,Sindh,Online,1,8512,4937,8512,3575
+NM-00954,2026-05-24,Cotton Bedsheet Set,Home & Living,Punjab,WhatsApp Order,2,5391,2803,10782,5176
+NM-00955,2026-05-01,Wireless Earbuds,Electronics,Sindh,Online,2,5033,3120,10066,3826
+NM-00956,2026-06-15,Study Table Wooden,Furniture,Punjab,WhatsApp Order,2,13410,7376,26820,12068
+NM-00957,2026-03-20,Wireless Earbuds,Electronics,Punjab,In-Store,1,3039,1884,3039,1155
+NM-00958,2026-05-24,LED Desk Lamp,Electronics,Punjab,In-Store,1,2007,1104,2007,903
+NM-00959,2026-06-03,Non-stick Cookware Set,Home & Living,Islamabad,Online,1,10106,5457,10106,4649
+NM-00960,2026-01-26,Power Bank 20000mAh,Electronics,Punjab,WhatsApp Order,1,3972,2383,3972,1589
+NM-00961,2026-05-16,Floor Lamp Modern,Furniture,Punjab,Online,2,9120,4560,18240,9120
+NM-00962,2026-04-13,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,3,7111,4124,21333,8961
+NM-00963,2026-05-08,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,5703,2966,5703,2737
+NM-00964,2026-03-15,Office Chair Ergo,Furniture,Punjab,Online,1,19700,11426,19700,8274
+NM-00965,2026-06-26,Sunglasses UV400,Fashion,Sindh,Online,1,3143,1320,3143,1823
+NM-00966,2026-06-13,Ceramic Dinner Set,Home & Living,Sindh,In-Store,2,17095,8548,34190,17094
+NM-00967,2026-05-07,Non-stick Cookware Set,Home & Living,Sindh,Online,2,11854,6401,23708,10906
+NM-00968,2026-01-09,Running Shoes,Fashion,Sindh,In-Store,1,7355,4192,7355,3163
+NM-00969,2026-05-27,Non-stick Cookware Set,Home & Living,Punjab,Online,1,9086,4906,9086,4180
+NM-00970,2026-03-26,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,4227,2198,4227,2029
+NM-00971,2026-01-26,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,1,3713,1856,3713,1857
+NM-00972,2026-02-28,LED Desk Lamp,Electronics,Sindh,In-Store,1,2439,1341,2439,1098
+NM-00973,2026-02-21,Yoga Mat Pro,Health & Fitness,Punjab,Online,1,3389,1694,3389,1695
+NM-00974,2026-02-06,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,1,2400,1080,2400,1320
+NM-00975,2026-01-01,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,Online,1,10139,5475,10139,4664
+NM-00976,2026-05-14,Non-stick Cookware Set,Home & Living,Punjab,Online,2,13463,7270,26926,12386
+NM-00977,2026-02-19,Ceramic Dinner Set,Home & Living,Sindh,In-Store,1,14181,7090,14181,7091
+NM-00978,2026-06-06,Leather Wallet,Fashion,Balochistan,Online,1,2428,1093,2428,1335
+NM-00979,2026-01-27,Bookshelf 5-Tier,Furniture,Punjab,In-Store,2,14630,7608,29260,14044
+NM-00980,2026-03-09,Bluetooth Speaker,Electronics,Punjab,In-Store,1,5653,3279,5653,2374
+NM-00981,2026-04-08,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,2,2493,1047,4986,2892
+NM-00982,2026-02-28,Wireless Earbuds,Electronics,Punjab,Online,1,2968,1840,2968,1128
+NM-00983,2026-01-08,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,9373,5061,9373,4312
+NM-00984,2026-05-13,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,Online,1,2779,1334,2779,1445
+NM-00985,2026-06-15,Yoga Mat Pro,Health & Fitness,Balochistan,In-Store,2,4195,2098,8390,4194
+NM-00986,2026-02-27,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,3469,1734,3469,1735
+NM-00987,2026-05-08,Study Table Wooden,Furniture,Punjab,In-Store,2,17833,9808,35666,16050
+NM-00988,2026-04-01,Wireless Earbuds,Electronics,Khyber Pakhtunkhwa,Online,1,3560,2207,3560,1353
+NM-00989,2026-04-27,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,WhatsApp Order,1,5659,2943,5659,2716
+NM-00990,2026-02-21,Whey Protein 1kg,Health & Fitness,Punjab,In-Store,1,11880,7128,11880,4752
+NM-00991,2026-06-11,Office Chair Ergo,Furniture,Punjab,In-Store,1,23784,13795,23784,9989
+NM-00992,2026-01-10,Power Bank 20000mAh,Electronics,Sindh,Online,1,4009,2405,4009,1604
+NM-00993,2026-01-03,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,In-Store,1,5949,3450,5949,2499
+NM-00994,2026-02-20,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,1,11715,7029,11715,4686
+NM-00995,2026-05-15,Leather Wallet,Fashion,Sindh,In-Store,3,3795,1708,11385,6261
+NM-00996,2026-02-13,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,9135,4933,9135,4202
+NM-00997,2026-05-25,Study Table Wooden,Furniture,Sindh,Online,2,14067,7737,28134,12660
+NM-00998,2026-03-28,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,7756,4188,7756,3568
+NM-00999,2026-02-20,Office Chair Ergo,Furniture,Islamabad,WhatsApp Order,1,16806,9747,16806,7059
+NM-01000,2026-02-04,Study Table Wooden,Furniture,Punjab,In-Store,1,9772,5375,9772,4397
+NM-01001,2026-03-19,Dumbbell Set 20kg,Health & Fitness,Balochistan,In-Store,1,6016,3489,6016,2527
+NM-01002,2026-05-23,Wireless Earbuds,Electronics,Punjab,In-Store,1,5820,3608,5820,2212
+NM-01003,2026-01-01,Cotton Bedsheet Set,Home & Living,Punjab,In-Store,1,7326,3810,7326,3516
+NM-01004,2026-02-20,Office Chair Ergo,Furniture,Balochistan,In-Store,1,15154,8789,15154,6365
+NM-01005,2026-03-19,Wall Clock Classic,Home & Living,Punjab,Online,2,2781,1335,5562,2892
+NM-01006,2026-01-18,Yoga Mat Pro,Health & Fitness,Islamabad,In-Store,1,3050,1525,3050,1525
+NM-01007,2026-01-19,Non-stick Cookware Set,Home & Living,Islamabad,Online,2,11313,6109,22626,10408
+NM-01008,2026-03-06,Bookshelf 5-Tier,Furniture,Sindh,In-Store,1,11080,5762,11080,5318
+NM-01009,2026-05-09,Office Chair Ergo,Furniture,Sindh,In-Store,1,15401,8933,15401,6468
+NM-01010,2026-03-04,Cotton Kurta,Fashion,Punjab,In-Store,2,4883,2442,9766,4882
+NM-01011,2026-02-14,Office Chair Ergo,Furniture,Sindh,In-Store,1,18486,10722,18486,7764
+NM-01012,2026-04-15,Running Shoes,Fashion,Balochistan,In-Store,2,11170,6367,22340,9606
+NM-01013,2026-05-21,Cotton Bedsheet Set,Home & Living,Islamabad,In-Store,1,3324,1728,3324,1596
+NM-01014,2026-03-23,Floor Lamp Modern,Furniture,Punjab,Online,1,5789,2894,5789,2895
+NM-01015,2026-03-22,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,Online,1,2555,1405,2555,1150
+NM-01016,2026-01-07,Whey Protein 1kg,Health & Fitness,Punjab,Online,1,9703,5822,9703,3881
+NM-01017,2026-05-24,Leather Wallet,Fashion,Sindh,In-Store,1,3448,1552,3448,1896
+NM-01018,2026-04-05,Office Chair Ergo,Furniture,Sindh,In-Store,1,26737,15507,26737,11230
+NM-01019,2026-01-08,Bluetooth Speaker,Electronics,Balochistan,WhatsApp Order,3,8074,4683,24222,10173
+NM-01020,2026-03-26,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,1,9393,5448,9393,3945
+NM-01021,2026-02-28,Study Table Wooden,Furniture,Punjab,Online,1,12396,6818,12396,5578
+NM-01022,2026-02-16,Cotton Kurta,Fashion,Punjab,Online,1,6342,3171,6342,3171
+NM-01023,2026-02-28,Cotton Kurta,Fashion,Punjab,In-Store,1,6276,3138,6276,3138
+NM-01024,2026-01-14,Wall Clock Classic,Home & Living,Sindh,Online,1,3056,1467,3056,1589
+NM-01025,2026-01-04,Wall Clock Classic,Home & Living,Punjab,In-Store,1,3151,1512,3151,1639
+NM-01026,2026-06-14,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,12962,6740,12962,6222
+NM-01027,2026-01-12,Bookshelf 5-Tier,Furniture,Punjab,Online,2,7760,4035,15520,7450
+NM-01028,2026-01-21,Bookshelf 5-Tier,Furniture,Sindh,In-Store,2,14132,7349,28264,13566
+NM-01029,2026-04-05,Study Table Wooden,Furniture,Sindh,In-Store,1,17083,9396,17083,7687
+NM-01030,2026-06-19,Cotton Kurta,Fashion,Punjab,In-Store,1,5254,2627,5254,2627
+NM-01031,2026-06-11,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,4851,2911,4851,1940
+NM-01032,2026-06-24,Running Shoes,Fashion,Sindh,Online,1,9927,5658,9927,4269
+NM-01033,2026-04-15,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,10141,5882,10141,4259
+NM-01034,2026-01-08,Cotton Bedsheet Set,Home & Living,Sindh,In-Store,1,4916,2556,4916,2360
+NM-01035,2026-03-24,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,In-Store,2,9448,5480,18896,7936
+NM-01036,2026-01-06,Dumbbell Set 20kg,Health & Fitness,Punjab,WhatsApp Order,1,6122,3551,6122,2571
+NM-01037,2026-06-14,Office Chair Ergo,Furniture,Balochistan,Online,1,15411,8938,15411,6473
+NM-01038,2026-05-14,Wall Clock Classic,Home & Living,Sindh,In-Store,1,2890,1387,2890,1503
+NM-01039,2026-06-17,Wireless Earbuds,Electronics,Balochistan,In-Store,1,3823,2370,3823,1453
+NM-01040,2026-02-11,Wireless Earbuds,Electronics,Punjab,In-Store,1,2609,1618,2609,991
+NM-01041,2026-04-23,Resistance Bands Kit,Health & Fitness,Sindh,Online,2,1965,884,3930,2162
+NM-01042,2026-01-13,Running Shoes,Fashion,Punjab,Online,1,7853,4476,7853,3377
+NM-01043,2026-04-04,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,1400,630,1400,770
+NM-01044,2026-05-20,Wireless Earbuds,Electronics,Sindh,Online,2,2974,1844,5948,2260
+NM-01045,2026-03-02,Floor Lamp Modern,Furniture,Punjab,WhatsApp Order,1,7651,3826,7651,3825
+NM-01046,2026-04-08,Sunglasses UV400,Fashion,Punjab,Online,1,3863,1622,3863,2241
+NM-01047,2026-05-20,Power Bank 20000mAh,Electronics,Punjab,Online,1,4159,2495,4159,1664
+NM-01048,2026-04-19,Wireless Earbuds,Electronics,Sindh,Online,1,4263,2643,4263,1620
+NM-01049,2026-02-20,Resistance Bands Kit,Health & Fitness,Sindh,Online,1,1822,820,1822,1002
+NM-01050,2026-06-01,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,Online,1,5824,3028,5824,2796
+NM-01051,2026-02-01,Ceramic Dinner Set,Home & Living,Sindh,In-Store,1,12801,6400,12801,6401
+NM-01052,2026-06-23,Office Chair Ergo,Furniture,Khyber Pakhtunkhwa,In-Store,2,23922,13875,47844,20094
+NM-01053,2026-01-08,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,2,9727,5642,19454,8170
+NM-01054,2026-04-06,Study Table Wooden,Furniture,Punjab,In-Store,3,14233,7828,42699,19215
+NM-01055,2026-04-02,LED Desk Lamp,Electronics,Punjab,Online,2,2468,1357,4936,2222
+NM-01056,2026-06-24,Bluetooth Speaker,Electronics,Punjab,In-Store,1,6173,3580,6173,2593
+NM-01057,2026-03-18,Power Bank 20000mAh,Electronics,Islamabad,In-Store,2,5177,3106,10354,4142
+NM-01058,2026-02-16,LED Desk Lamp,Electronics,Punjab,In-Store,2,2687,1478,5374,2418
+NM-01059,2026-01-02,Running Shoes,Fashion,Punjab,In-Store,2,5299,3020,10598,4558
+NM-01060,2026-05-27,Cotton Kurta,Fashion,Punjab,Online,1,6215,3108,6215,3107
+NM-01061,2026-04-22,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,6870,3572,6870,3298
+NM-01062,2026-02-20,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,Online,1,2122,891,2122,1231
+NM-01063,2026-01-07,Leather Wallet,Fashion,Punjab,In-Store,1,1825,821,1825,1004
+NM-01064,2026-06-15,Study Table Wooden,Furniture,Punjab,In-Store,1,12114,6663,12114,5451
+NM-01065,2026-02-06,Non-stick Cookware Set,Home & Living,Punjab,WhatsApp Order,3,7101,3835,21303,9798
+NM-01066,2026-04-03,Cotton Bedsheet Set,Home & Living,Punjab,WhatsApp Order,1,5222,2715,5222,2507
+NM-01067,2026-06-15,LED Desk Lamp,Electronics,Punjab,Online,1,1927,1060,1927,867
+NM-01068,2026-04-23,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,In-Store,1,3358,1410,3358,1948
+NM-01069,2026-04-03,Leather Wallet,Fashion,Khyber Pakhtunkhwa,In-Store,1,3514,1581,3514,1933
+NM-01070,2026-03-15,Leather Wallet,Fashion,Khyber Pakhtunkhwa,In-Store,2,2568,1156,5136,2824
+NM-01071,2026-04-20,Bluetooth Speaker,Electronics,Sindh,WhatsApp Order,1,4472,2594,4472,1878
+NM-01072,2026-03-16,Running Shoes,Fashion,Sindh,Online,1,7736,4410,7736,3326
+NM-01073,2026-02-17,Yoga Mat Pro,Health & Fitness,Sindh,In-Store,3,2581,1290,7743,3873
+NM-01074,2026-03-13,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,WhatsApp Order,1,4081,2245,4081,1836
+NM-01075,2026-06-05,Leather Wallet,Fashion,Punjab,In-Store,1,3480,1566,3480,1914
+NM-01076,2026-04-10,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,1,11415,5936,11415,5479
+NM-01077,2026-03-21,Office Chair Ergo,Furniture,Islamabad,In-Store,1,14259,8270,14259,5989
+NM-01078,2026-05-27,Resistance Bands Kit,Health & Fitness,Islamabad,In-Store,2,1966,885,3932,2162
+NM-01079,2026-01-15,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,In-Store,1,2605,1302,2605,1303
+NM-01080,2026-06-08,Leather Wallet,Fashion,Sindh,Online,1,3336,1501,3336,1835
+NM-01081,2026-06-15,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,3297,1648,3297,1649
+NM-01082,2026-01-19,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,1,8888,5155,8888,3733
+NM-01083,2026-02-21,Bookshelf 5-Tier,Furniture,Sindh,In-Store,1,11655,6061,11655,5594
+NM-01084,2026-03-16,Dumbbell Set 20kg,Health & Fitness,Sindh,In-Store,3,5804,3366,17412,7314
+NM-01085,2026-01-27,Ceramic Dinner Set,Home & Living,Balochistan,WhatsApp Order,1,9422,4711,9422,4711
+NM-01086,2026-02-16,Leather Wallet,Fashion,Sindh,In-Store,2,3608,1624,7216,3968
+NM-01087,2026-06-03,Ceramic Dinner Set,Home & Living,Sindh,WhatsApp Order,1,11893,5946,11893,5947
+NM-01088,2026-06-10,Sunglasses UV400,Fashion,Punjab,In-Store,1,1774,745,1774,1029
+NM-01089,2026-01-02,Bluetooth Speaker,Electronics,Islamabad,In-Store,1,7490,4344,7490,3146
+NM-01090,2026-06-09,Sunglasses UV400,Fashion,Punjab,In-Store,3,3325,1396,9975,5787
+NM-01091,2026-02-27,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,2,8347,4841,16694,7012
+NM-01092,2026-04-25,Study Table Wooden,Furniture,Islamabad,Online,1,10567,5812,10567,4755
+NM-01093,2026-05-08,LED Desk Lamp,Electronics,Punjab,Online,1,4072,2240,4072,1832
+NM-01094,2026-01-01,Dumbbell Set 20kg,Health & Fitness,Khyber Pakhtunkhwa,In-Store,2,9030,5237,18060,7586
+NM-01095,2026-02-19,Wall Clock Classic,Home & Living,Khyber Pakhtunkhwa,Online,1,2723,1307,2723,1416
+NM-01096,2026-04-19,Sunglasses UV400,Fashion,Islamabad,Online,1,3050,1281,3050,1769
+NM-01097,2026-01-19,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,1,15861,8724,15861,7137
+NM-01098,2026-04-26,Study Table Wooden,Furniture,Punjab,Online,1,12930,7112,12930,5818
+NM-01099,2026-02-11,Resistance Bands Kit,Health & Fitness,Punjab,Online,1,2792,1256,2792,1536
+NM-01100,2026-02-21,Dumbbell Set 20kg,Health & Fitness,Punjab,Online,1,10613,6156,10613,4457
+NM-01101,2026-05-06,Non-stick Cookware Set,Home & Living,Punjab,In-Store,1,9045,4884,9045,4161
+NM-01102,2026-06-07,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,In-Store,1,8702,4525,8702,4177
+NM-01103,2026-05-05,LED Desk Lamp,Electronics,Sindh,In-Store,1,3042,1673,3042,1369
+NM-01104,2026-04-10,Study Table Wooden,Furniture,Islamabad,WhatsApp Order,1,15129,8321,15129,6808
+NM-01105,2026-01-08,Cotton Kurta,Fashion,Punjab,In-Store,1,3739,1870,3739,1869
+NM-01106,2026-03-01,Leather Wallet,Fashion,Islamabad,In-Store,1,2954,1329,2954,1625
+NM-01107,2026-02-12,LED Desk Lamp,Electronics,Sindh,In-Store,1,3304,1817,3304,1487
+NM-01108,2026-01-19,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,1,9586,5560,9586,4026
+NM-01109,2026-06-02,Cotton Kurta,Fashion,Balochistan,Online,2,4523,2262,9046,4522
+NM-01110,2026-04-16,Cotton Kurta,Fashion,Punjab,Online,1,3349,1674,3349,1675
+NM-01111,2026-02-08,Wall Clock Classic,Home & Living,Sindh,In-Store,1,1637,786,1637,851
+NM-01112,2026-06-27,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,2,1917,863,3834,2108
+NM-01113,2026-06-21,Wall Clock Classic,Home & Living,Sindh,In-Store,1,3241,1556,3241,1685
+NM-01114,2026-03-02,Bluetooth Speaker,Electronics,Sindh,In-Store,1,5745,3332,5745,2413
+NM-01115,2026-02-26,LED Desk Lamp,Electronics,Islamabad,In-Store,1,3917,2154,3917,1763
+NM-01116,2026-02-19,Cotton Kurta,Fashion,Sindh,Online,1,4726,2363,4726,2363
+NM-01117,2026-02-25,Sunglasses UV400,Fashion,Islamabad,In-Store,3,1581,664,4743,2751
+NM-01118,2026-05-17,LED Desk Lamp,Electronics,Khyber Pakhtunkhwa,Online,2,3685,2027,7370,3316
+NM-01119,2026-01-11,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,4038,2100,4038,1938
+NM-01120,2026-03-22,Bluetooth Speaker,Electronics,Sindh,In-Store,1,6863,3981,6863,2882
+NM-01121,2026-06-13,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,1,9363,5431,9363,3932
+NM-01122,2026-01-07,Resistance Bands Kit,Health & Fitness,Islamabad,Online,1,1563,703,1563,860
+NM-01123,2026-04-07,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,Online,1,8982,5210,8982,3772
+NM-01124,2026-05-05,Wireless Earbuds,Electronics,Sindh,Online,2,4657,2887,9314,3540
+NM-01125,2026-03-09,Wireless Earbuds,Electronics,Punjab,In-Store,2,4181,2592,8362,3178
+NM-01126,2026-02-15,Non-stick Cookware Set,Home & Living,Punjab,In-Store,2,12560,6782,25120,11556
+NM-01127,2026-06-22,Bookshelf 5-Tier,Furniture,Sindh,WhatsApp Order,1,9708,5048,9708,4660
+NM-01128,2026-01-14,Yoga Mat Pro,Health & Fitness,Islamabad,In-Store,1,2033,1016,2033,1017
+NM-01129,2026-05-27,Power Bank 20000mAh,Electronics,Sindh,In-Store,1,4459,2675,4459,1784
+NM-01130,2026-02-25,Office Chair Ergo,Furniture,Punjab,WhatsApp Order,2,20618,11958,41236,17320
+NM-01131,2026-04-09,Running Shoes,Fashion,Sindh,Online,1,5196,2962,5196,2234
+NM-01132,2026-05-04,Office Chair Ergo,Furniture,Islamabad,In-Store,1,22763,13203,22763,9560
+NM-01133,2026-01-03,Cotton Kurta,Fashion,Punjab,In-Store,1,3747,1874,3747,1873
+NM-01134,2026-01-03,Resistance Bands Kit,Health & Fitness,Khyber Pakhtunkhwa,WhatsApp Order,2,2191,986,4382,2410
+NM-01135,2026-02-25,Yoga Mat Pro,Health & Fitness,Khyber Pakhtunkhwa,In-Store,2,3035,1518,6070,3034
+NM-01136,2026-06-20,Dumbbell Set 20kg,Health & Fitness,Sindh,Online,1,9352,5424,9352,3928
+NM-01137,2026-03-04,Non-stick Cookware Set,Home & Living,Khyber Pakhtunkhwa,Online,1,10111,5460,10111,4651
+NM-01138,2026-06-17,Office Chair Ergo,Furniture,Islamabad,Online,1,23481,13619,23481,9862
+NM-01139,2026-06-09,Bookshelf 5-Tier,Furniture,Khyber Pakhtunkhwa,Online,1,7559,3931,7559,3628
+NM-01140,2026-02-11,Yoga Mat Pro,Health & Fitness,Punjab,In-Store,1,3525,1762,3525,1763
+NM-01141,2026-05-13,Cotton Bedsheet Set,Home & Living,Punjab,Online,1,6696,3482,6696,3214
+NM-01142,2026-04-01,Cotton Kurta,Fashion,Sindh,In-Store,1,5755,2878,5755,2877
+NM-01143,2026-01-12,Power Bank 20000mAh,Electronics,Punjab,In-Store,1,3779,2267,3779,1512
+NM-01144,2026-06-10,Dumbbell Set 20kg,Health & Fitness,Islamabad,In-Store,2,8152,4728,16304,6848
+NM-01145,2026-06-08,Dumbbell Set 20kg,Health & Fitness,Islamabad,WhatsApp Order,2,7587,4400,15174,6374
+NM-01146,2026-04-13,LED Desk Lamp,Electronics,Balochistan,Online,1,2756,1516,2756,1240
+NM-01147,2026-03-04,Sunglasses UV400,Fashion,Khyber Pakhtunkhwa,Online,2,3931,1651,7862,4560
+NM-01148,2026-02-02,Yoga Mat Pro,Health & Fitness,Balochistan,Online,1,2683,1342,2683,1341
+NM-01149,2026-04-26,Floor Lamp Modern,Furniture,Sindh,In-Store,1,5267,2634,5267,2633
+NM-01150,2026-02-17,LED Desk Lamp,Electronics,Punjab,WhatsApp Order,1,2737,1505,2737,1232
+NM-01151,2026-01-15,Floor Lamp Modern,Furniture,Sindh,WhatsApp Order,2,5689,2844,11378,5690
+NM-01152,2026-06-03,Cotton Kurta,Fashion,Punjab,In-Store,1,6371,3186,6371,3185
+NM-01153,2026-05-06,Office Chair Ergo,Furniture,Sindh,In-Store,2,19612,11375,39224,16474
+NM-01154,2026-02-06,Leather Wallet,Fashion,Islamabad,In-Store,1,3994,1797,3994,2197
+NM-01155,2026-03-19,Running Shoes,Fashion,Punjab,In-Store,2,8159,4651,16318,7016
+NM-01156,2026-04-07,Floor Lamp Modern,Furniture,Sindh,WhatsApp Order,1,5555,2778,5555,2777
+NM-01157,2026-06-11,Ceramic Dinner Set,Home & Living,Punjab,WhatsApp Order,2,14973,7486,29946,14974
+NM-01158,2026-04-05,Sunglasses UV400,Fashion,Islamabad,In-Store,1,1698,713,1698,985
+NM-01159,2026-05-11,Non-stick Cookware Set,Home & Living,Balochistan,In-Store,3,9623,5196,28869,13281
+NM-01160,2026-03-23,Dumbbell Set 20kg,Health & Fitness,Punjab,In-Store,1,9701,5627,9701,4074
+NM-01161,2026-03-22,Study Table Wooden,Furniture,Khyber Pakhtunkhwa,In-Store,1,13844,7614,13844,6230
+NM-01162,2026-01-09,Bluetooth Speaker,Electronics,Punjab,In-Store,1,5233,3035,5233,2198
+NM-01163,2026-05-08,Leather Wallet,Fashion,Khyber Pakhtunkhwa,Online,2,2947,1326,5894,3242
+NM-01164,2026-01-23,Bookshelf 5-Tier,Furniture,Sindh,In-Store,1,12856,6685,12856,6171
+NM-01165,2026-05-09,Office Chair Ergo,Furniture,Sindh,In-Store,2,15280,8862,30560,12836
+NM-01166,2026-02-16,Study Table Wooden,Furniture,Balochistan,In-Store,1,15090,8300,15090,6790
+NM-01167,2026-01-13,Sunglasses UV400,Fashion,Punjab,In-Store,1,3765,1581,3765,2184
+NM-01168,2026-05-21,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,In-Store,1,3955,1978,3955,1977
+NM-01169,2026-01-03,Floor Lamp Modern,Furniture,Punjab,In-Store,1,7328,3664,7328,3664
+NM-01170,2026-03-08,Ceramic Dinner Set,Home & Living,Punjab,WhatsApp Order,1,16956,8478,16956,8478
+NM-01171,2026-01-18,Ceramic Dinner Set,Home & Living,Sindh,In-Store,1,9002,4501,9002,4501
+NM-01172,2026-05-24,Yoga Mat Pro,Health & Fitness,Punjab,Online,1,4176,2088,4176,2088
+NM-01173,2026-01-21,Cotton Kurta,Fashion,Khyber Pakhtunkhwa,Online,1,6227,3114,6227,3113
+NM-01174,2026-02-10,Leather Wallet,Fashion,Punjab,WhatsApp Order,1,2244,1010,2244,1234
+NM-01175,2026-06-05,Study Table Wooden,Furniture,Punjab,In-Store,1,14337,7885,14337,6452
+NM-01176,2026-04-06,Cotton Bedsheet Set,Home & Living,Sindh,Online,1,5682,2955,5682,2727
+NM-01177,2026-04-12,Bluetooth Speaker,Electronics,Islamabad,WhatsApp Order,1,7835,4544,7835,3291
+NM-01178,2026-01-25,Study Table Wooden,Furniture,Sindh,In-Store,2,18577,10217,37154,16720
+NM-01179,2026-03-20,LED Desk Lamp,Electronics,Punjab,In-Store,2,2422,1332,4844,2180
+NM-01180,2026-05-04,LED Desk Lamp,Electronics,Balochistan,Online,1,2537,1395,2537,1142
+NM-01181,2026-03-11,Power Bank 20000mAh,Electronics,Punjab,In-Store,2,3395,2037,6790,2716
+NM-01182,2026-03-11,Cotton Bedsheet Set,Home & Living,Balochistan,In-Store,1,6942,3610,6942,3332
+NM-01183,2026-03-23,Office Chair Ergo,Furniture,Islamabad,In-Store,2,15659,9082,31318,13154
+NM-01184,2026-06-17,Whey Protein 1kg,Health & Fitness,Sindh,In-Store,2,9417,5650,18834,7534
+NM-01185,2026-03-05,Bluetooth Speaker,Electronics,Khyber Pakhtunkhwa,Online,1,5999,3479,5999,2520
+NM-01186,2026-04-02,Power Bank 20000mAh,Electronics,Islamabad,In-Store,1,4966,2980,4966,1986
+NM-01187,2026-05-18,Bluetooth Speaker,Electronics,Punjab,In-Store,2,4592,2663,9184,3858
+NM-01188,2026-06-15,Floor Lamp Modern,Furniture,Punjab,In-Store,3,4209,2104,12627,6315
+NM-01189,2026-02-25,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,In-Store,1,6291,3271,6291,3020
+NM-01190,2026-05-28,Bookshelf 5-Tier,Furniture,Balochistan,In-Store,3,10760,5595,32280,15495
+NM-01191,2026-02-22,Cotton Kurta,Fashion,Balochistan,WhatsApp Order,1,4045,2022,4045,2023
+NM-01192,2026-01-12,Yoga Mat Pro,Health & Fitness,Sindh,Online,1,2317,1158,2317,1159
+NM-01193,2026-06-17,Cotton Kurta,Fashion,Islamabad,Online,1,5466,2733,5466,2733
+NM-01194,2026-04-18,Study Table Wooden,Furniture,Sindh,Online,1,11938,6566,11938,5372
+NM-01195,2026-04-12,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,7725,4017,7725,3708
+NM-01196,2026-01-03,Bookshelf 5-Tier,Furniture,Punjab,In-Store,1,10778,5605,10778,5173
+NM-01197,2026-01-15,Study Table Wooden,Furniture,Sindh,Online,3,18652,10259,55956,25179
+NM-01198,2026-05-12,Resistance Bands Kit,Health & Fitness,Sindh,In-Store,1,2688,1210,2688,1478
+NM-01199,2026-05-12,Cotton Bedsheet Set,Home & Living,Khyber Pakhtunkhwa,In-Store,2,6661,3464,13322,6394
+NM-01200,2026-02-08,Wall Clock Classic,Home & Living,Sindh,In-Store,1,2408,1156,2408,1252
