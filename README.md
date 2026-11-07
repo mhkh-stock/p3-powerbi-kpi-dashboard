@@ -19,6 +19,20 @@
 > **not** Power BI screenshots). A buyer on a real order gets the finished
 > `.pbix` built in Power BI Desktop from this exact model.
 
+## How it fits together
+
+```mermaid
+flowchart LR
+    A[data/raw/sales_SAMPLE.csv<br/>1,200 demo orders] --> B[src/build_model.py<br/>seed 7]
+    B --> C[data/model.db<br/>star schema]
+    B --> D[data/processed/*.csv<br/>Power BI-ready]
+    C --> E[src/checks.py<br/>14 DQ checks]
+    D --> F[Power BI Desktop<br/>dax/measures.dax]
+    F --> G[Dashboard<br/>.pbix on a real order]
+    C --> H[src/make_previews.py]
+    H --> I[dashboard/previews/*.png]
+```
+
 ## Business question it answers
 
 > "Which products, regions and channels actually make us money — and where
@@ -42,7 +56,8 @@ one star-schema fact table, so every visual agrees on the same numbers.
 | `dashboard/previews/*.png` | Preview renders of the trend, category and region charts (matplotlib, labelled) |
 | `outputs/insights.md` | Findings + 3 recommendations in plain English |
 | `src/build_model.py` | Seeded generator + loader: re-run for identical numbers |
-| `src/checks.py` | Data-quality checks as code — 11 checks, all passing |
+| `src/checks.py` | Data-quality checks as code — 14 checks, all passing |
+| `src/make_previews.py` | Regenerates `dashboard/previews/*.png` from `data/model.db` |
 
 ## 3 key findings (from the demo data)
 
@@ -57,6 +72,25 @@ one star-schema fact table, so every visual agrees on the same numbers.
    PKR 6,118,847 (**51.8%**), Online 32.6%, WhatsApp Order 15.6%.
    *So what:* the cheapest growth in this sample is lifting WhatsApp
    ordering from 15.6%, not chasing more footfall.
+
+## Recommendation
+
+Protect furniture availability first (it is 34.8% of sales), diagnose
+April's dip before cutting anything, and grow WhatsApp ordering toward
+Online's share — the cheapest growth lever in this sample. Full
+reasoning: `outputs/insights.md`.
+
+## Screenshots
+
+Preview renders of the same demo data (matplotlib, **not** Power BI
+screenshots — the real `.pbix` visuals are built from this exact model
+on a real order; see the note at the top).
+
+![Monthly sales trend, Jan–Jun 2026](dashboard/previews/monthly-trend.png)
+
+![Sales by category](dashboard/previews/sales-by-category.png)
+
+![Sales by region](dashboard/previews/sales-by-region.png)
 
 ## Verified KPIs
 
@@ -73,7 +107,7 @@ one star-schema fact table, so every visual agrees on the same numbers.
 | Best region | Punjab (PKR 3,969,335) |
 | Best month | January 2026 (PKR 2,083,714) |
 
-Verification: `python3 src/checks.py` — 11 checks pass, including
+Verification: `python3 src/checks.py` — 14 checks pass, including
 fact total = raw CSV total (11,804,808), every `sales_amount` =
 quantity × price, and every profit = quantity × (price − cost).
 
@@ -104,6 +138,17 @@ seed 7: 1,200 orders, Jan–Jun 2026, 20 products across 5 categories,
 5 regions, 3 channels). Prices are realistic PKR ranges per product,
 not real prices. No customer names or payment details exist in this
 data — by design.
+
+## Limits — what this does not claim
+
+- **Demo data only:** 1,200 seeded SAMPLE orders for a fictional shop;
+  no finding here describes a real business.
+- **Six months, no year-on-year:** Jan–Jun 2026, so there is no YoY
+  comparison — the MoM measures are the honest trend view.
+- **Seeded costs, not supplier costs:** `unit_cost` is a fixed ratio of
+  price per product, so margins are illustrative, not audited.
+- **No bundled `.pbix`:** the finished file is built in Power BI
+  Desktop from this model on a real order (see the note at the top).
 
 ## Repo standard note
 

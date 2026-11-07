@@ -9,7 +9,7 @@ Power BI Desktop → Get Data → Text/CSV → import all 5 files from
 `data/processed/`: `fact_sales.csv`, `dim_product.csv`, `dim_region.csv`,
 `dim_channel.csv`, `dim_date.csv`. In Power Query, set `sales_amount`,
 `profit`, `unit_price`, `unit_cost`, `quantity` to Whole Number, and
-`order_date` to Date. Load.
+`order_date` and `dim_date[month_date]` to Date. Load.
 
 ## 2. Relationships (2 min, Model view)
 
@@ -29,9 +29,9 @@ Modeling → New measure, paste each measure from `dax/measures.dax`:
 Total Sales, Total Profit, Profit Margin %, Total Orders, Total Units,
 Average Order Value. Format sales/profit as whole PKR, margin as %.
 
-For the month-over-month measure, add a `month_date` column to
-`dim_date` first (`DATE(2026, month_number, 1)`), then paste
-Sales Previous Month and Sales MoM Growth %.
+`dim_date` already ships a `month_date` column (first of each month,
+set to Date in step 1), so paste Sales Previous Month and
+Sales MoM Growth % as-is — no extra column needed.
 
 ## 4. Page layout (8 min, one page, top to bottom)
 
@@ -57,6 +57,7 @@ Sales Previous Month and Sales MoM Growth %.
 ## What the preview renders are
 
 `dashboard/previews/*.png` are matplotlib renders of the same data,
-made so this repo shows the charts without Power BI. They are labelled
+made so this repo shows the charts without Power BI — regenerate them
+any time with `python3 src/make_previews.py` (reads `data/model.db`). They are labelled
 as renders in the README and are **not** presented as Power BI
 screenshots. The real screenshots come from the `.pbix` built above.

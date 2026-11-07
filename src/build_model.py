@@ -88,6 +88,8 @@ def main():
         "date_id": range(1, 7),
         "month": [f"2026-{m:02d}" for m in range(1, 7)],
         "month_name": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        "month_no": range(1, 7),
+        "month_date": [f"2026-{m:02d}-01" for m in range(1, 7)],
     })
     pmap = dict(zip(dim_product["product"], dim_product.product_id))
     rmap = dict(zip(dim_region["region"], dim_region.region_id))

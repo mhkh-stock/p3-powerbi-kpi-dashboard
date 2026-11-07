@@ -16,7 +16,9 @@ CREATE TABLE dim_channel (
 CREATE TABLE dim_date (
     date_id INTEGER PRIMARY KEY,
     month TEXT NOT NULL,        -- '2026-01' .. '2026-06'
-    month_name TEXT NOT NULL
+    month_name TEXT NOT NULL,
+    month_no INTEGER NOT NULL,  -- 1 .. 6
+    month_date TEXT NOT NULL    -- '2026-01-01' .. first of month; DATEADD target for the DAX MoM measures
 );
 CREATE TABLE fact_sales (
     order_id TEXT PRIMARY KEY,

@@ -28,6 +28,13 @@ check("profit = qty x (price - cost) everywhere",
       "SELECT COUNT(*) FROM fact_sales WHERE profit != quantity * (unit_price - unit_cost)", 0)
 check("all fact products exist in dim_product",
       "SELECT COUNT(*) FROM fact_sales f LEFT JOIN dim_product d ON d.product_id = f.product_id WHERE d.product_id IS NULL", 0)
+check("all fact regions exist in dim_region",
+      "SELECT COUNT(*) FROM fact_sales f LEFT JOIN dim_region d ON d.region_id = f.region_id WHERE d.region_id IS NULL", 0)
+check("all fact channels exist in dim_channel",
+      "SELECT COUNT(*) FROM fact_sales f LEFT JOIN dim_channel d ON d.channel_id = f.channel_id WHERE d.channel_id IS NULL", 0)
+check("all fact months exist in dim_date",
+      "SELECT COUNT(*) FROM fact_sales f LEFT JOIN dim_date d ON d.month = f.month WHERE d.month IS NULL", 0)
+check("dim_date covers 6 months", "SELECT COUNT(*) FROM dim_date", 6)
 check("all months in Jan-Jun 2026",
       "SELECT COUNT(*) FROM fact_sales WHERE month NOT BETWEEN '2026-01' AND '2026-06'", 0)
 check("dimensions complete: 20 products", "SELECT COUNT(*) FROM dim_product", 20)

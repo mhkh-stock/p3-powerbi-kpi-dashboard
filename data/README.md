@@ -23,6 +23,8 @@
 - `dim_product`: `product_id`, `product`, `category` (20 rows).
 - `dim_region`: `region_id`, `region` (5 rows).
 - `dim_channel`: `channel_id`, `channel` (3 rows).
-- `dim_date`: `date_id`, `month` (`2026-01` … `2026-06`), `month_name`.
+- `dim_date`: `date_id`, `month` (`2026-01` … `2026-06`), `month_name`,
+  `month_no` (1–6), `month_date` (first of the month, `2026-01-01` … —
+  a real date column so the DAX `DATEADD` MoM measures work on import).
 
 All money is PKR. All data is fictional SAMPLE data (seed 7) — see README.

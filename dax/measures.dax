@@ -17,9 +17,9 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders])
 
 Sales Previous Month =
     CALCULATE([Total Sales], DATEADD(dim_date[month_date], -1, MONTH))
-// NOTE: dim_date needs a real date column (month_date = DATE(2026, month_no, 1))
-// for DATEADD to work. If you import only the month text, use a manual
-// previous-month measure instead (see the build guide, step 5).
+// NOTE: dim_date ships a real date column, month_date (first of each
+// month, e.g. 2026-01-01) — set it to Date type on import (see the
+// build guide, step 1) so DATEADD works with no extra setup.
 
 Sales MoM Growth % =
     DIVIDE([Total Sales] - [Sales Previous Month], [Sales Previous Month])
