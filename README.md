@@ -1,5 +1,7 @@
 # P3 — Power BI Business KPI Dashboard: Sales & Profit by Region, Product and Channel
 
+**Repo:** https://github.com/mhkh-stock/p3-powerbi-kpi-dashboard
+
 **Shop:** NoorMart (fictional) · **Period:** Jan–Jun 2026 · **Status: SAMPLE delivery on DEMO data**
 **Tools:** Power BI (DAX) · SQL star schema (SQLite) · Python (pandas)
 **Model:** `data/model.db` + `data/processed/*.csv` (Power BI-ready) · **Measures:** `dax/measures.dax`
